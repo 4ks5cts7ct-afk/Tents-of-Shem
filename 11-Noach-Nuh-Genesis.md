@@ -64,13 +64,13 @@ Isaiah 54:1–55:5
 Isaiah 54:2 (The Expansion Protocol):"Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes."
 System Logic: As the "Three Sons" of Terah are born, the system is preparing for a massive "Network Expansion." This requires "strengthening the stakes"—preparing the Abrahamic core to hold the weight of the upcoming global network.
 Isaiah 55:1 (The Open-Source Invitation): "Ho, every one that thirsteth, come ye to the waters..."
-System Logic: This is the "Call to Ur." While the Terah-Node is steeped in the "Idol-OS" (Synthetic Static), the "Source" begins the broadcast of the "Water Protocol"—an invitation to exit the dry, synthetic environment of Ur for the living flow of the Covenant.
+System Logic: This is the "Call to Ur." While Terah is steeped in the "Idol-OS", God begins the broadcast of the "Water Protocol"—an invitation to exit the dry, synthetic environment of Ur for the living flow of the Covenant.
 
 🛰️ The Isaiah 54/55 High-Frequency Bridge
 Isaiah 54:1: "Sing, O barren... for more are the children of the desolate than the children of the married wife."
-System Logic: This is the Sarai Patch. The Source confirms that her "Barren Hardware" is actually the chosen vehicle for the most massive "Network Expansion" in history.
+System Logic: This is the Sarai Patch. God confirms that her "Barren Hardware" is actually the chosen vehicle for the most massive "Network Expansion" in history.
 Isaiah 55:5: "Behold, thou shalt call a nation that thou knowest not, and nations that knew not thee shall run unto thee..."
-System Logic: As the Terah-Node dies, the Abrahamic Signal is boosted. He is no longer just a "User" in Ur; he is becoming the Global Serverthat distant nations will eventually "run to" for connection.
+System Logic: As Terah dies, the Abrahamic Signal is boosted. He is no longer just a "User" in Ur; he is becoming the Global Server that distant nations will eventually "run to" for connection.
 
 
 
