@@ -21,9 +21,9 @@
 * [Chapter 14](./14-Lech-Lecha-Al-Hijrah-Genesis.md)
 * [Chapter 15](./15-Lech-Lecha-Al-Hijrah-Genesis.md)
 * [Chapter 16](./16-Lech-Lecha-Al-Hijrah-Genesis.md)
+* [Chapter 17](./17-Lech-Lecha-Al-Hijrah-Genesis.md)
 
 ### Vayera | Al-Ru'ya | Genesis
-* [Chapter 17](./17-Vayera-Al-Ruya-Genesis.md)
 * [Chapter 18](./18-Vayera-Al-Ruya-Genesis.md)
 * [Chapter 19](./19-Vayera-Al-Ruya-Genesis.md)
 * [Chapter 20](./20-Vayera-Al-Ruya-Genesis.md)
