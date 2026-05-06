@@ -13,7 +13,7 @@
 * [Chapter 8](./08-Noach-Nuh-Genesis.md)
 * [Chapter 9](./09-Noach-Nuh-Genesis.md)
 * [Chapter 10](./10-Noach-Nuh-Genesis.md)
-* [Chapter 11](./10-Noach-Nuh-Genesis.md)
+* [Chapter 11](./11-Noach-Nuh-Genesis.md)
 
 ### Lech-Lecha | Al-Hijrah | Genesis
 * [Chapter 12](./12-Lech-Lecha-Al-Hijrah-Genesis.md)
