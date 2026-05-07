@@ -136,4 +136,74 @@
 * [Chapter 26b](./26-Bechukotai-Bi-Faraidi-Leviticus.md)
 * [Chapter 27](./27-Bechukotai-Bi-Faraidi-Leviticus.md)
 
+### Bamidbar | Fil-Barriyah | Numbers
+(Num 1:1–4:20): Hosea 2:1–22
+* [Chapter 1](./01-Bamidbar-Fil-Barriyah-Numbers.md)
+* [Chapter 2](./02-Bamidbar-Fil-Barriyah-Numbers.md)
+* [Chapter 3](./03-Bamidbar-Fil-Barriyah-Numbers.md)
+* [Chapter 4](./04-Bamidbar-Fil-Barriyah-Numbers.md)
+
+### Nasso | Irfa’ | Numbers
+(Num 4:21–7:89): Judges 13:2–25
+* [Chapter 4b](./04b-Nasso-Irfa-Numbers.md)
+* [Chapter 5](./05-Nasso-Irfa-Numbers.md)
+* [Chapter 6](./06-Nasso-Irfa-Numbers.md)
+* [Chapter 7](./07-Nasso-Irfa-Numbers.md)
+
+### Beha'alotcha | Inda Is’adik | Numbers
+(Num 8:1–12:16): Zechariah 2:14–4:7
+* [Chapter 8](./08-Behaalotcha-Inda-Isadik-Numbers.md)
+* [Chapter 9](./09-Behaalotcha-Inda-Isadik-Numbers.md)
+* [Chapter 10](./10-Behaalotcha-Inda-Isadik-Numbers.md)
+* [Chapter 11](./11-Behaalotcha-Inda-Isadik-Numbers.md)
+* [Chapter 12](./12-Behaalotcha-Inda-Isadik-Numbers.md)
+
+### Sh'lach | Arsil | Numbers
+(Num 13:1–15:41): Joshua 2:1–24
+* [Chapter 13](./13-Shlach-Arsil-Numbers.md)
+* [Chapter 14](./14-Shlach-Arsil-Numbers.md)
+* [Chapter 15](./15-Shlach-Arsil-Numbers.md)
+
+### Korach | Qarun | Numbers
+(Num 16:1–18:32): I Samuel 11:14–12:22
+* [Chapter 16](./16-Korach-Qarun-Numbers.md)
+* [Chapter 17](./17-Korach-Qarun-Numbers.md)
+* [Chapter 18](./18-Korach-Qarun-Numbers.md)
+
+### Chukat | Faridat | Numbers
+(Num 19:1–22:1): Judges 11:1–33
+* [Chapter 19](./19-Chukat-Faridat-Numbers.md)
+* [Chapter 20](./20-Chukat-Faridat-Numbers.md)
+* [Chapter 21](./21-Chukat-Faridat-Numbers.md)
+* [Chapter 22](./22-Chukat-Faridat-Numbers.md)
+
+### Balak | Balaq | Numbers
+(Num 22:2–25:9): Micah 5:6–6:8
+* [Chapter 22b](./22b-Balak-Balaq-Numbers.md)
+* [Chapter 23](./23-Balak-Balaq-Numbers.md)
+* [Chapter 24](./24-Balak-Balaq-Numbers.md)
+* [Chapter 25](./25-Balak-Balaq-Numbers.md)
+
+### Pinchas | Finhas | Numbers
+(Num 25:10–30:1): I Kings 18:46–19:21
+* [Chapter 25b](./25b-Pinchas-Finhas-Numbers.md)
+* [Chapter 26](./26-Pinchas-Finhas-Numbers.md)
+* [Chapter 27](./27-Pinchas-Finhas-Numbers.md)
+* [Chapter 28](./28-Pinchas-Finhas-Numbers.md)
+* [Chapter 29](./29-Pinchas-Finhas-Numbers.md)
+* [Chapter 30](./30-Pinchas-Finhas-Numbers.md)
+
+### Matot | Al-Asbat | Numbers
+(Num 30:2–32:42): Jeremiah 1:1–2:3
+* [Chapter 30b](./30b-Matot-Al-Asbat-Numbers.md)
+* [Chapter 31](./31-Matot-Al-Asbat-Numbers.md)
+* [Chapter 32](./32-Matot-Al-Asbat-Numbers.md)
+
+### Masei | Rihlat | Numbers
+(Num 33:1–36:13): Jeremiah 2:4–28, 3:4
+* [Chapter 33](./33-Masei-Rihlat-Numbers.md)
+* [Chapter 34](./34-Masei-Rihlat-Numbers.md)
+* [Chapter 35](./35-Masei-Rihlat-Numbers.md)
+* [Chapter 36](./36-Masei-Rihlat-Numbers.md)
+
 
