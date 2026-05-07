@@ -191,17 +191,13 @@ The Correction Protocol: At-Tawba & Tachanun (The Action Plan)
 While these sections feel stern, they are actually the Repair Utility. They represent the moment the person stops fighting the system and begins the Return.<br>
 
 The Action:<br>
-At-Tawba (The Returning)<br>
-Tachanun (Supplication)<br>
+At-Tawba (The Returning) Tachanun (Supplication)<br>
 Feature:<br>
-The "Turning Back" to God.<br>
-The "Dropping of the Shield" / Raw Honesty.<br>
+The "Turning Back" to God The "Dropping of the Shield" / Raw Honesty.<br>
 The Posture<br>
-"No Refuge from God except in Him" (9:118).<br>
-"Falling on the Face" / Stripped-down humility.<br>
+"No Refuge from God except in Him" (9:118) "Falling on the Face" / Stripped-down humility.<br>
 The Technicality<br>
-Omits the Basmala to focus on accountability.<br>
-Omitted on Joyous Days to focus on the "Repair."<br>
+Omits the Basmala to focus on accountability Omitted on Joyous Days to focus on the "Repair."<br>
 1. The Shared Vulnerability<br>
 Both At-Tawba and Tachanun are about "dropping the firewall."<br>
 In Surah 9, it is about the three men who felt the world "closing in" until they synced back with the Source.<br>
