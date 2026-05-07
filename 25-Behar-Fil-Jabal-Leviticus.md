@@ -16,38 +16,38 @@ The Quranic account of Musa (Moses) in Midian provides a much more direct line o
 
 Leviticus 25:1: “And the LORD spoke unto Moses in mount Sinai, saying:"
 Surah 95:2 & 52:1 Sync:
-Surah 95:2: "And [by] Mount Sinai (Tur Sinin)..." Surah 52:1: "By the Mount (Tur)..."
- Synthesis: The "Sinai" location is the primary Root Access point for the Law. Both texts use Sinai as the geographic "Anchor" for the covenant, signaling that the following land-laws are not merely social suggestions but are part of the high-level Sinai OS Update.
+Surah 95:2: "And [by] Mount Sinai (Tur Sinin)..." Surah 52:1: "By the Mount (Tur)..."<br>
+Synthesis: The "Sinai" location is the primary Root Access point for the Law. Both texts use Sinai as the geographic "Anchor" for the covenant, signaling that the following land-laws are not merely social suggestions but are part of the high-level Sinai OS Update.
 Synthesis: The Sinai Location Audit. While 4th-century "Site Identification" (Queen Helena) hard-coded the St. Catherine’s location, the Behar Data Log suggests a different coordinate set. The Quranic account of the mountain being "crushed to dust" and the burning manifest syncs with the scorched peaks of Jabal al-Lawz in Midian. This isn't just a map update; it’s a System Restoration to the original Midianite "Hardware."
 
 Leviticus 25:2: “"Speak unto the children of Israel, and say unto them: When ye come into the land which I give you, then shall the land keep a sabbath unto the LORD."
-Surah 5:21 Sync: "O my people, enter the Holy Land which Allah has assigned to you..."
+Surah 5:21 Sync: "O my people, enter the Holy Land which Allah has assigned to you..."<br>
 Synthesis: The Inheritance Handshake. The land is defined as a "Gift" (אֲשֶׁר אֲנִי נֹתֵן לָכֶם), which initializes the Stewardship Protocol. Because the Creator is the true "Owner," He installs a Scheduled Downtime (Sabbath) for the the Land to prevent user-driven burnout and acknowledge Divine Title.
 Synthesis: The command to let the land "keep a Sabbath" is a direct assertion of Divine Ownership. If the people are running on Legacy Malware (incorrect geography/tradition), the connection to the land is corrupted. The "Sabbath to the Lord" ensures that the "Sojourners" don't overwrite the Creator's Ownership of the terrain.
 
 Leviticus 25:3: "Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the produce thereof."
-Surah 6:141 Sync: "It is He who produces gardens... and crops of different taste... Eat of their fruit when they yield and give its due [zakah] on the day of its harvest."
+Surah 6:141 Sync: "It is He who produces gardens... and crops of different taste... Eat of their fruit when they yield and give its due [zakah] on the day of its harvest."<br>
 Synthesis: The Production Cycle. This verse defines the Operating Parameters for standard resource extraction. Six years of "Active Processing" (sowing/pruning) are permitted, but both the Torah and Surah 6:141 remind the user that the "Produce" is part of a larger divine ecosystem where the "Dues" (the Sabbath rest and harvest taxes) belong to God.
 Synthesis: The "6-year" cycle is the maximum permitted Uptime for agricultural extraction. By aligning this with the "Midian Migration" route, we see a logical flow of laws given at a real, physical "System Overload" site (the scorched mountain) to govern the "Holy Land" assignment. The "Produce" is the data output; the "7th Year" is the System Cool-down.
 
 Leviticus 25:4 "But in the seventh year shall be a sabbath of solemn rest for the land, a sabbath unto the LORD; thou shalt neither sow thy field, nor prune thy vineyard.  
-Surah 7:143: "...and Moses fell down unconscious." Surah 2:63: "And remember when We took your covenant and raised over you the Mount..." 
- Synthesis: Just as the Mount (Jabal al-Lawz) could not withstand the unshielded presence of God without "System Overload" (becoming dust), the Land cannot withstand perpetual human extraction. The "Sabbath of Solemn Rest" is a Hard-Stop on the agricultural OS. It proves that the Land is a "Sovereign Anchor" belonging to the LORD, not a resource to be crashed by human greed.
+Surah 7:143: "...and Moses fell down unconscious." Surah 2:63: "And remember when We took your covenant and raised over you the Mount..."<br>
+Synthesis: Just as the Mount (Jabal al-Lawz) could not withstand the unshielded presence of God without "System Overload" (becoming dust), the Land cannot withstand perpetual human extraction. The "Sabbath of Solemn Rest" is a Hard-Stop on the agricultural OS. It proves that the Land is a "Sovereign Anchor" belonging to the LORD, not a resource to be crashed by human greed.
 
 Leviticus 25:5 "That which groweth of itself of thy harvest thou shalt not reap, and the grapes of thy undressed vine thou shalt not gather; it shall be a year of solemn rest for the land."
-Surah 56:63-64 Sync: "Have you seen that which you sow? Is it you who makes it grow, or are We the grower?"
+Surah 56:63-64 Sync: "Have you seen that which you sow? Is it you who makes it grow, or are We the grower?"<br>
 Synthesis: This verse bans the "Gathering" of self-growing crops. It forces the Person to realize they are not the Primary Grower. By forbidding the reap, God verifies who truly controls the "Hardware" (the soil). It is a year where the "Private" tag is removed from all resources.
 
 Leviticus 25:6 "And the sabbath-produce of the land shall be for food for you: for thee, and for thy servant and for thy maid, and for thy hired servant and for the settler by thy side that sojourn with thee;"
-Surah 51:19 Sync: "And in their wealth there was a right [due] for the petitioner and the deprived."
+Surah 51:19 Sync: "And in their wealth there was a right [due] for the petitioner and the deprived."<br>
 Synthesis:  In the 7th year, the Land transitions from a Private Repository to a Public Domain. Servants, laborers, and even the "Settler" (stranger/sojourner) have equal access to the food. This is the ultimate "System Leveling" event.
 
 Leviticus 25:7"And for thy cattle, and for the beasts that are in thy land, shall all the increase thereof be for food."
-Surah 80:27-32 Sync: "And We caused to grow therein grain... and gardens of thick foliage... as enjoyment for you and your grazing livestock."
+Surah 80:27-32 Sync: "And We caused to grow therein grain... and gardens of thick foliage... as enjoyment for you and your grazing livestock."<br>
 Synthesis: Ecological Integrity. The protocol extends beyond human users to the animal maintenance (cattle and wild beasts). By allowing the "wild" beasts to eat from the fields, the Law prevents humans from over-managing the environment. It is a total return to the "Edenic Default" where the Creator provides for all life directly.
 
 Leviticus 25:8 "And thou shalt number seven sabbaths of years unto thee, seven times seven years; and there shall be unto thee the days of seven sabbaths of years, even forty and nine years."
-Surah 2:261 Sync: "The example of those who spend their wealth in the way of Allah is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains..."
+Surah 2:261 Sync: "The example of those who spend their wealth in the way of Allah is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains..."<br>
 Synthesis: The Exponential Cycle. The "7x7" logic isn't just math; it’s a Recursive Function. By stacking seven Sabbatical cycles, the system builds up "Charge" for the ultimate reset. This mirrors the Quranic emphasis on the "Seven" and the multiplication of divine blessing through structured time.
 
 Leviticus 25:9 "Then shalt thou make proclaim with the blast of the horn on the tenth day of the seventh month; in the day of atonement shall ye make proclamation with the horn throughout all your land."
@@ -91,7 +91,7 @@ Leviticus 25:18 "Wherefore ye shall do My statutes and keep Mine ordinances and 
 Surah 106:3-4 Sync: "Let them worship the Lord of this House, Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear."
 Synthesis: The Safety Protocol. Compliance with these statutes is the only way to achieve System Stability (Betach/Safety). Both the Torah and the Quran (Surah 106) link obedience and worship to physical "Safety" and "Provision." If the people ignore the Sabbath and Jubilee logic, the "Land Hardware" becomes unstable.
 
-Triple Harvest Protocol
+Triple Harvest Protocol<br>
 Leviticus 25:19 "And the land shall yield her fruit, and ye shall eat with fulfilment, and dwell therein in safety."
 Surah 7:96 Sync: "And if only the people of the cities had believed and feared Allah, We would have opened upon them blessings from the heaven and the earth..."
 Synthesis: The Stability Output. When the Compliance Logs are clean, the Land produces maximum yield. "Safety" (Betach) is a side-effect of following the Divine OS. Both texts promise that physical "fulfillment" is a direct result of spiritual alignment.
