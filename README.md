@@ -79,3 +79,62 @@
 * [Chapter 49](./49-Vayechi-Al-Baqa-Genesis.md)
 * [Chapter 50](./50-Vayechi-Al-Baqa-Genesis.md)
 
+### Vayikra | Al-Nida’ | Leviticus
+(Lev 1:1–5:26): Isaiah 43:21–44:23
+* [Chapter 1](./01-Vayikra-Al-Nida-Leviticus.md)
+* [Chapter 2](./02-Vayikra-Al-Nida-Leviticus.md)
+* [Chapter 3](./03-Vayikra-Al-Nida-Leviticus.md)
+* [Chapter 4](./04-Vayikra-Al-Nida-Leviticus.md)
+* [Chapter 5](./05-Vayikra-Al-Nida-Leviticus.md)
+
+### Tzav | Al-Amr | Leviticus
+(Lev 6:1–8:36): Jeremiah 7:21–8:3, 9:22–23
+* [Chapter 6](./06-Tzav-Al-Amr-Leviticus.md)
+* [Chapter 7](./07-Tzav-Al-Amr-Leviticus.md)
+* [Chapter 8](./08-Tzav-Al-Amr-Leviticus.md)
+
+### Shmini | Al-Thamin | Leviticus
+(Lev 9:1–11:47): II Samuel 6:1–7:17
+* [Chapter 9](./09-Shmini-Al-Thamin-Leviticus.md)
+* [Chapter 10](./10-Shmini-Al-Thamin-Leviticus.md)
+* [Chapter 11](./11-Shmini-Al-Thamin-Leviticus.md)
+
+### Tazria | Al-Zar | Leviticus
+(Lev 12:1–13:59): II Kings 4:42–5:19
+* [Chapter 12](./12-Tazria-Al-Zar-Leviticus.md)
+* [Chapter 13](./13-Tazria-Al-Zar-Leviticus.md)
+
+### Metzora | Al-Abras | Leviticus
+(Lev 14:1–15:33): II Kings 7:3–20
+* [Chapter 14](./14-Metzora-Al-Abras-Leviticus.md)
+* [Chapter 15](./15-Metzora-Al-Abras-Leviticus.md)
+
+### Acharei Mot | Ba’d al-Mawt | Leviticus
+(Lev 16:1–18:30): Ezekiel 22:1–19
+* [Chapter 16](./16-Acharei-Mot-Bad-al-Mawt-Leviticus.md)
+* [Chapter 17](./17-Acharei-Mot-Bad-al-Mawt-Leviticus.md)
+* [Chapter 18](./18-Acharei-Mot-Bad-al-Mawt-Leviticus.md)
+
+### Kedoshim | Al-Muqaddasin | Leviticus
+(Lev 19:1–20:27): Amos 9:7–15
+* [Chapter 19](./19-Kedoshim-Al-Muqaddasin-Leviticus.md)
+* [Chapter 20](./20-Kedoshim-Al-Muqaddasin-Leviticus.md)
+
+### Emor | Qul | Leviticus
+(Lev 21:1–24:23): Ezekiel 44:15–31
+* [Chapter 21](./21-Emor-Qul-Leviticus.md)
+* [Chapter 22](./22-Emor-Qul-Leviticus.md)
+* [Chapter 23](./23-Emor-Qul-Leviticus.md)
+* [Chapter 24](./24-Emor-Qul-Leviticus.md)
+
+### Behar | Fil-Jabal | Leviticus
+(Lev 25:1–26:2): Jeremiah 32:6–27
+* [Chapter 25](./25-Behar-Fil-Jabal-Leviticus.md)
+* [Chapter 26](./26-Behar-Fil-Jabal-Leviticus.md)
+
+### Bechukotai | Bi-Fara’idi | Leviticus
+(Lev 26:3–27:34): Jeremiah 16:19–17:14
+* [Chapter 26b](./26b-Bechukotai-Bi-Faraidi-Leviticus.md)
+* [Chapter 27](./27-Bechukotai-Bi-Faraidi-Leviticus.md)
+
+
