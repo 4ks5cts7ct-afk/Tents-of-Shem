@@ -133,7 +133,7 @@
 
 ### Bechukotai | Bi-Fara’idi | Leviticus
 (Lev 26:3–27:34): Jeremiah 16:19–17:14
-* [Chapter 26b](./26-Bechukotai-Bi-Faraidi-Leviticus.md)
+* [Chapter 26](./26-Bechukotai-Bi-Faraidi-Leviticus.md)
 * [Chapter 27](./27-Bechukotai-Bi-Faraidi-Leviticus.md)
 
 ### Bamidbar | Fil-Barriyah | Numbers
