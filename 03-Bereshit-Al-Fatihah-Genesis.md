@@ -84,6 +84,7 @@ Synthesis: The Responsibility Shift. The Man attempts to deflect the error by bl
 **Synthesis:** The **Legacy Initialization**. Despite the shift into mortality, the Man identifies the Woman as "Eve" (The Living). This acts as the "Record of Continuity," acknowledging that although the original pair is now time-bound, the human will proliferate and persist through the generations.
 
 Genesis 3:21: "And the Lord God made for Adam and for his wife garments of skins and clothed them."
+Suran 7:22 Sync: "...and they began to fasten together over themselves from the leaves of Paradise."
 Surah 7:26 Sync: "O children of Adam, We have bestowed upon you clothing to conceal your private parts and as adornment..."
 Synthesis: The Divine Provision Patch. God replaces the temporary "Fig Leaf" with more durable "Garments of Skins." This requires the first sacrifice (loss of animal life), signaling that in this new, harsher environment, the protection of the human unit requires a higher cost. It is an act of mercy to provide functional "Armor" for the new world.
 
