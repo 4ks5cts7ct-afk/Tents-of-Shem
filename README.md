@@ -1,5 +1,8 @@
 # Table of Contents
 
+### Numerical Grid | Abjad & Gematria
+* [The Expansion Code (22/28)](./00-Numerical-Grid-Expansion.md)
+
 [**Siddur-Salah Prayer Book**](https://github.com)
 ---
 ### Scriptural Grid | The 22/28 Expansion
