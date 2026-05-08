@@ -1,5 +1,8 @@
 # Table of Contents
 
+[**View the /Siddur-Salah Prayer Book Directory**](https://github.com)
+---
+
 ### Bereshit | Al-Fatihah | Genesis
 * [Chapter 1](./01-Bereshit-Al-Fatihah-Genesis.md)
 * [Chapter 2](./02-Bereshit-Al-Fatihah-Genesis.md)
