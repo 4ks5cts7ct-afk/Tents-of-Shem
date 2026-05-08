@@ -2,7 +2,9 @@
 
 [**View the /Siddur-Salah Prayer Book Directory**](https://github.com)
 ---
-
+### Scriptural Grid | The 22/28 Expansion
+* [Hardware Specifications](./00-Scriptural-Grid-Architecture.md)
+* 
 ### Bereshit | Al-Fatihah | Genesis
 * [Chapter 1](./01-Bereshit-Al-Fatihah-Genesis.md)
 * [Chapter 2](./02-Bereshit-Al-Fatihah-Genesis.md)
