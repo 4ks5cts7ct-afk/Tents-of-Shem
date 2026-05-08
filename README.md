@@ -1,7 +1,7 @@
 # Table of Contents
 
 ## 📂 Directory: /Siddur-Salah
-### The Succession Order
+### The Master Succession Order
 * [**00-System-Root.md**](Siddur-Salah/00-System-Root.md): The Base Code (22/28) and the Structural Grid.
 * [**01-Access-Keys.md**](Siddur-Salah/01-Access-Keys.md): The Power-On Command (Basmala/Berakhah).
 * [**02-Boot-Sequence.md**](Siddur-Salah/02-Boot-Sequence.md): The Wake-Up Protocol (Modeh Ani/Waking Dua).
