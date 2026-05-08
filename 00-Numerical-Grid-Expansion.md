@@ -1,6 +1,7 @@
 Hebrew and Arabic gematria
 
-⚓ The Abjad vs. Gematria Match
+⚓ The Abjad vs. Gematria Match<br>
+
 Alif (Aleph) is 1 in the Quranic system, just as it is in the Torah.
 The original order of the Arabic alphabet was not the one used in modern dictionaries; it was the Abjadic Order, which matches the Hebrew/Phoenician sequence: A-B-J-D (Alif, Ba, Jim, Dal).<br>
 
