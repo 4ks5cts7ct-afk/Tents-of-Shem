@@ -39,7 +39,7 @@ It is the number of Joints in the Human Hand (the tool of creation)<br>
 
 🧬 The "Linguistic Reset"<br>
 Linguistically, the 6 extra letters aren't "new"—they are Preserved Sounds. Arabic kept the specific frequencies that Hebrew "compressed" into single letters.<br>
-￼
+
 ⚓ The Sovereign Synthesis: The "Work" of the 6<br>
 By adding these 6 letters, the Abjad became a Physical Map.<br>
 
