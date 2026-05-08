@@ -8,13 +8,13 @@ The Amidah (Jewish "Standing Prayer") and the Salah (Islamic "Prayer") are struc
 
 1. Phase One: The Entrance (Praise)
 Both sons begin by clearing their minds and recognizing the sovereignty of the "God of Abraham."
-￼
+
 2. Phase Two: The Middle (Submission & Request)
 This is the "working" section where the petitioner seeks guidance and sustenance.
-￼
+
 3. Phase Three: The Exit (Gratitude & Peace)
 The final stage is about retreating from the Divine Presence and re-entering the physical world.
-￼
+
 
 🧬 Integrated Summary<br>
 The daily rhythm of Isaac and Ishmael is a shared Sovereign Operating System.
