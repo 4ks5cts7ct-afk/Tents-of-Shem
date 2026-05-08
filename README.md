@@ -206,4 +206,14 @@
 * [Chapter 35](./35-Masei-Rihlat-Numbers.md)
 * [Chapter 36](./36-Masei-Rihlat-Numbers.md)
 
+* ## 📂 Directory: /Siddur-Salah
+### The Master Succession Order
+* **00-System-Root.md**: The Base Code (22/28) and the Structural Grid.
+* **01-Access-Keys.md**: The Power-On Command (Basmala/Berakhah).
+* **02-Boot-Sequence.md**: The Wake-Up Protocol (Modeh Ani/Waking Dua).
+* **03-The-Antivirus.md**: The Sovereign Frequency (358/80) vs. The King Malware.
+* **04-Daily-Loop.md**: The 5-Point Symmetry (The 3 Middle/2 Outer Prayers).
+* **05-The-Exit-Protocol.md**: The Final Handshake (Shalom/Salaam).
+
+
 
