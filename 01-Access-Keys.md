@@ -1,4 +1,4 @@
-📄 File 2: 01-Access-Keys.md
+01-Access-Keys.md
 Siddur | Salah: The Access Keys
 I. The "B" Protocol (Beth/Ba)
 In your database, the most striking feature is that both systems begin with the letter B (Arabic: ب / Hebrew: ב).
