@@ -1,6 +1,6 @@
 # Table of Contents
 
-[**View the /Siddur-Salah Prayer Book**](https://github.com)
+[**Siddur-Salah Prayer Book**](https://github.com)
 ---
 ### Scriptural Grid | The 22/28 Expansion
 * [Scripture Specifications](./00-Scriptural-Grid-Architecture.md)
