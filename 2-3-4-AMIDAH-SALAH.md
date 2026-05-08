@@ -1,5 +1,6 @@
 🛡️ The PRAYER 2, 3, & 4 Partition 
 The formal Standing Prayers (The Amidah/Salah) as the core "Working" cycle:<br>
+
 PRAYER 2: The Morning Ascent(Shacharit / Dhuhr)<br>
 PRAYER 3: The Afternoon Peak(Mincha / Asr)<br>
 PRAYER 4: The Evening Descent(Ma'ariv / Maghrib)<br>
