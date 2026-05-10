@@ -9,13 +9,17 @@
 * [2-3-4. The Stand: Amidah & Salah](./2-3-4-AMIDAH-SALAH.md)
 * [5. Sleep: Hamapil & Isha](./5-HAMAPIL-ISHA.md)
 ---
-#The Prophets
+
+# 🐋 The Prophets
+
 * [Prophets Overview & Directory](./prophets/README.md)
 * [1. Yunus (Jonah)](./prophets/01-Yunus-Jonah.md)
 * [2. Ilyas (Elijah)](./prophets/02-Ilyas-Elijah.md)
 * [3. Al-Yasa (Elisha)](./prophets/03-Al-Yasa-Elisha.md)
 * [4. Dhul-Kifl (Ezekiel)](./prophets/04-Dhul-Kifl-Ezekiel.md)
 * [5. Ayyub (Job)](./prophets/05-Ayyub-Job.md)
+
+---
 
 ### Scriptural Grid | The 22/28 Expansion
 * [Scripture Specifications](./00-Scriptural-Grid-Architecture.md)
