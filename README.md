@@ -10,7 +10,7 @@
 * [5. Sleep: Hamapil & Isha](./5-HAMAPIL-ISHA.md)
 ---
 
-# 🐋 The Prophets
+# The Prophets
 
 * [Prophets Overview & Directory](./prophets/README.md)
 * [1. Yunus (Jonah)](./prophets/01-Yunus-Jonah.md)
