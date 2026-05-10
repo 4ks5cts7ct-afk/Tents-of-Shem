@@ -17,6 +17,7 @@
 * [2. Ilyas (Elijah)](./prophets/02-Ilyas-Elijah.md)
 * [3. Al-Yasa (Elisha)](./prophets/03-Al-Yasa-Elisha.md)
 * [4. Dhul-Kifl (Ezekiel)](./prophets/04-Dhul-Kifl-Ezekiel.md)
+* [4a. Ezekiel Chapters 37-39 Synthesis](./prophets/04a-Ezekiel-37-39.md)
 * [5. Ayyub (Job)](./prophets/05-Ayyub-Job.md)
 
 ---
