@@ -9,7 +9,7 @@
 * [2-3-4. The Stand: Amidah & Salah](./2-3-4-AMIDAH-SALAH.md)
 * [5. Sleep: Hamapil & Isha](./5-HAMAPIL-ISHA.md)
 ---
-###The Prophets | 
+#The Prophets | 
 * [Prophets Overview & Directory](./prophets/README.md)
 * [1. Yunus (Jonah)](./prophets/01-Yunus-Jonah.md)
 * [2. Ilyas (Elijah)](./prophets/02-Ilyas-Elijah.md)
