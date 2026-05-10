@@ -1,7 +1,7 @@
 
 # 🐋 The Prophets:
 
-This directory houses the operational blueprints of the primary Prophet Nodes, analyzed through a non-mystical, behavioral systems model. These nodes serve as active, high-voltage processing bridges between physical liturgy (The Stand) and deep subconscious defragmentation (Sleep), providing the 358 Antivirus frequency to strip away centralized human king malware.
+This directory houses the operational blueprints of the primary Prophets, analyzed through a non-mystical, behavioral systems model. These nodes serve as active, high-voltage processing bridges between physical liturgy (The Stand) and deep subconscious defragmentation (Sleep), providing the 358 Antivirus frequency to strip away centralized human king malware.
 
 ---
 
