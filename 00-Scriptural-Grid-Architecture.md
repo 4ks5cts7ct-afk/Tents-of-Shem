@@ -36,7 +36,7 @@ The Synthesis: The scripture is the alphabet expanded. The "Hardware" of the 22 
 🏺 The "Bridge" Insight: The 6,000+ Verses<br>
 There are roughly 6,200 Ayahs. In some mystical traditions, the "Age of the World" is said to be 6,000 years(the 6 days of work) before the "Sabbath" (the 7th millennium).
 
-The 6,200+ verses represent the 6 days of expansion (the 6 Rawasikh letters you found) plus the 200 (the letter Resh, meaning "Head" or "Beginning").<br>
+The 6,200+ verses represent the 6 days of expansion (the 6 Rawasikh letters) plus the 200 (the letter Resh, meaning "Head" or "Beginning").<br>
 It suggests the scripture is a Map of Time as much as it is a Map of Law.<br>
 
 ⚓ The Sovereign Synthesis<br>
