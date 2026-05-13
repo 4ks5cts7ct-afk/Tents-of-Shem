@@ -30,7 +30,7 @@ The Root: Both come from the root R-H-M.<br>
 The Meaning: This is the word for Womb.<br>
 The Synthesis: When a person says the Basmala or the Baruch, they are invoking the "Womb" of creation. They are stating that the action they are about to take is being birthed from the Divine-Energy of Mercy.<br>
 
-☝🏻 The "Sovereign" Insight: The "Software" Lock
+The "Sovereign" Insight: The "Software" Lock
 Surah 9 is the only one without the Basmala.<br>
 In Judaism, certain actions (like those involving heavy judgment or pain) do not receive a "Baruch."<br>
 The Code: If the act is not aligned with the "White Light" of Mercy/Expansion, the The Name cannot be used. It is a safety protocol in the software.
