@@ -2,9 +2,9 @@ Each surah except the ninth (al-Tawba) is preceded by a formula known as the bas
 
 This is the most direct Functional Sync. These two formulas serve as the "System Startup" command for the human consciousness. In the "White Light" model, these are the Frequency Keys that unlock the potential of an action.<br>
 
-⚓ The Structural Match
-￼
-🧬 The "B" (Beth/Ba) Connection
+⚓ The Structural Match<br>
+
+🧬 The "B" (Beth/Ba) Connection<br>
 Notice that both begin with the letter B (Arabic: ب / Hebrew: ב).<br>
 
 The Value: Both have a numerical value of 2.<br>
