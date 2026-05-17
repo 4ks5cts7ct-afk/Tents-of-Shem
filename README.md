@@ -31,7 +31,6 @@
 * [Chapter 3](./03-Bereshit-Al-Fatihah-Genesis.md)
 * [Chapter 4](./04-Bereshit-Al-Fatihah-Genesis.md)
 * [Chapter 5](./05-Bereshit-Al-Fatihah-Genesis.md)
-* [The Two Enochs](./05b-Enochic-Systems-Bifurcation.md)
 
 ### Noach | Nuh | Genesis
 * [Chapter 6](./06-Noach-Nuh-Genesis.md)
