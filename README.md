@@ -1,5 +1,7 @@
 # Table of Contents
 
+* [Welcome](./00-Welcome-Manifesto.md)
+
 ### Numerical Grid  
 * [Abjad & Gematria (22/28)](./00-Numerical-Grid-Expansion.md)
 * [Calendar (12/12)](./01-Chronological-Matrix-Months.md)
@@ -25,7 +27,7 @@
 
 ---
 
-### Scriptural Grid | The 22/28 Expansion
+# Scriptural Grid | The 22/28 Expansion
 * [Scripture Specifications](./00-Scriptural-Grid-Architecture.md)
   
 ### Bereshit | Al-Fatihah | Genesis
