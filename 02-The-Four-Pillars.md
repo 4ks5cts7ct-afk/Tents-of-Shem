@@ -1,6 +1,6 @@
 ## The Four Pillars of the Shared Year
 
-While the Tanakh manifests its 4 explicit pillars through the agricultural weather seasons (the physical sprout and harvest of the earth), Islam manifests its 4 distinct pillars through a moral and ritual architecture known explicitly as the Four Sacred Months (*Al-Ashhur Al-Hurum*). In the pre-exilic Tanakh, God picks exactly 4 months out of 12 to name, anchoring them to agricultural milestones: Aviv, Ziv, Ethanim, and Bul. In the Quran, God similarly singles out exactly 4 months out of 12 to receive absolute, unalterable sanctity, anchoring them to a total freeze on human conflict: 
+While the Tanakh shows its 4 explicit pillars through the agricultural weather seasons (the physical sprout and harvest of the earth), Islam manifests its 4 distinct pillars through a moral and ritual architecture known explicitly as the Four Sacred Months (*Al-Ashhur Al-Hurum*). In the pre-exilic Tanakh, God picks exactly 4 months out of 12 to name, anchoring them to agricultural milestones: Aviv, Ziv, Ethanim, and Bul. In the Quran, God similarly singles out exactly 4 months out of 12 to receive absolute, unalterable sanctity, anchoring them to a total freeze on human conflict: 
 
 > "Indeed, the number of months ordained by Allah is twelve... of which four are sacred. That is the upright religion..." (Surah At-Tawbah 9:36)
 
@@ -45,7 +45,7 @@ In both Arabic and Hebrew, the linguistic and structural meanings of these speci
 *   **Ramadan (Month 9):** The word *Ramadan* comes directly from the Arabic root *rmḍ*, meaning "scorching heat" or "burning earth." It purifies the ego through the fire of daily deprivation.
 *   **The Omer (Months 1 to 3):** The Omer countdown culminates in the third month, *Sivan*. The Semitic root of *Sivan* is similarly linked to "scorching" or "the intense heat of summer."
 
-Pillars must stand perfectly still to support a house, but the Altar must actively burn. These months represent **Divine Invasion**—heaven shattering earth to deliver a message. 
+Pillars must stand perfectly still to support a house, but the Altar must actively burn. These months represent **Divine Communication**—heaven shattering earth to deliver a message. 
 
 ```text
        [ THE AXIS OF REVELATION ]
@@ -58,16 +58,16 @@ Pillars must stand perfectly still to support a house, but the Altar must active
 ```
 
 ### The 30 + 20 Priestly Premium Formula
-True internal metamorphosis requires an unbroken, cross-month sprint of intense spiritual labor. When stripped down to raw numerical code, both lineages run the exact same **30-day baseline marathon**, but Isaac's line receives a specific extension for the Priestly level of purity:
+True internal metamorphosis requires an unbroken, cross-month sprint of intense spiritual labor. When stripped down to raw numbers, both lineages run the exact same **30-day baseline marathon**, but Isaac's line receives a specific extension for the Priestly level of purity:
 
 *   **Ishmael's Baseline Engine (30 Days):** Runs the high-density, 30-day block of Ramadan. It is lean, direct, and burns away the ego through a single monthly cycle.
 *   **Isaac's Priestly Expansion (50 Days):** Runs for 50 continuous days (the 49 days of the Omer + Day 50 of Shavuot at Sinai). 
 
-This 20-day extension perfectly mirrors the legal redemption codes established in **Leviticus 27:31**: *“And if a man will at all redeem aught of his tithes, he shall add thereto the fifth part (20%) thereof.”* When upgrading a standard human timeline to a consecrated, priestly state, the system automatically adds the **20% premium**, expanding a standard 100-day tracking matrix by exactly **20 days**. The extra phase is the mandatory processing time required to transform a population of freed slaves into a "kingdom of priests."
+This 20-day extension perfectly mirrors the legal redemption established in **Leviticus 27:31**: *“And if a man will at all redeem aught of his tithes, he shall add thereto the fifth part (20%) thereof.”* When upgrading a standard human timeline to a consecrated, priestly state, Torah automatically adds the **20% premium**, expanding a standard 100-day tracking matrix by exactly **20 days**. The extra phase is the mandatory processing time required to transform a population of freed slaves into a "kingdom of priests."
 
 ### The Unified Ledger (Days 1–50)
 
-This master tracking matrix demonstrates the real-time functionality of the sovereign Semitic calendar runtime environment. By stacking the Exodus timelines, historical markers, and the live 2026 kinetic data onto shared coordinates, the systemic patterns of the "Internal Engine" emerge with absolute clarity.
+This master tracking matrix demonstrates the real-time functionality of the sovereign Semitic calendar. By stacking the Exodus timelines, historical markers, and the live 2026 data onto shared coordinates, the systemic patterns of the "Internal Metrics" emerge with absolute clarity.
 
 
 | Omer # | Gregorian Date (2026) | Hebrew Date | Exodus Year 1 | Exodus Year 2 | Joshua’s Era / Historical & Rabbinic Continuum | 2026 Real-World Kinetic / Geopolitical Sync Markers |
