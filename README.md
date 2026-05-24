@@ -6,10 +6,10 @@
 * [The Four Pillars of the Shared Year](./01-Chronological-Matrix-Months.md#the-four-pillars-of-the-shared-year)
 
 ### Siddur-Salah | The Sovereign Prayer Manual
-* [0. Access Keys: Basmala & Baruch](./0-ACCESS-KEYS-BASMALA-BARUCH.md)
-* [1. Wake Up: Modeh Ani & Waking Dua](./1-MODEH-ANI-WAKING-DUA.md)
-* [2-3-4. The Stand: Amidah & Salah](./2-3-4-AMIDAH-SALAH.md)
-* [5. Sleep: Hamapil & Isha](./5-HAMAPIL-ISHA.md)
+* [Access Keys: Basmala & Baruch](./0-ACCESS-KEYS-BASMALA-BARUCH.md)
+* [Wake Up: Modeh Ani & Waking Dua](./1-MODEH-ANI-WAKING-DUA.md)
+* [The Stand: Amidah & Salah](./2-3-4-AMIDAH-SALAH.md)
+* [Sleep: Hamapil & Isha](./5-HAMAPIL-ISHA.md)
 ---
 
 # The Prophets
