@@ -3,7 +3,7 @@
 ### Numerical Grid  
 * [Abjad & Gematria (22/28)](./00-Numerical-Grid-Expansion.md)
 * [Calendar (12/12)](./01-Chronological-Matrix-Months.md)
-*  * [The Four Pillars](./02-The-Four-Pillars.md)
+*  * [The Four Pillars of the Shared Year](./02-The-Four-Pillars.md)
 
 
 ### Siddur-Salah | The Sovereign Prayer Manual
