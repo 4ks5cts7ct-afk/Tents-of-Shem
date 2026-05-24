@@ -63,7 +63,7 @@ True internal metamorphosis requires an unbroken, cross-month sprint of intense 
 *   **Ishmael's Baseline Engine (30 Days):** Runs the high-density, 30-day block of Ramadan. It is lean, direct, and burns away the ego through a single monthly cycle.
 *   **Isaac's Priestly Expansion (50 Days):** Runs for 50 continuous days (the 49 days of the Omer + Day 50 of Shavuot at Sinai). 
 
-This 20-day extension perfectly mirrors the legal redemption established in **Leviticus 27:31**: *“And if a man will at all redeem aught of his tithes, he shall add thereto the fifth part (20%) thereof.”* When upgrading a standard human timeline to a consecrated, priestly state, Torah automatically adds the **20% premium**, expanding a standard 100-day tracking matrix by exactly **20 days**. The extra phase is the mandatory processing time required to transform a population of freed slaves into a "kingdom of priests."
+This 20-day extension perfectly mirrors the legal redemption established in Leviticus 27:31: “And if a man will at all redeem aught of his tithes, he shall add thereto the fifth part (20%) thereof.” When upgrading a standard human timeline to a consecrated, priestly state, the Torah automatically applies this 20% premium against a complete 100-day matrix framework, yielding exactly 20 days of extra labor. This added phase acts as the mandatory processing time required to transform a population of freed slaves into a "kingdom of priests."
 
 ### The Unified Ledger (Days 1–50)
 
