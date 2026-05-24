@@ -1,8 +1,8 @@
 # Table of Contents
 
-### Numerical Grid | Abjad & Gematria
-* [The Expansion Code (22/28)](./00-Numerical-Grid-Expansion.md)
-* [The Chronological Matrix (12/12)](./01-Chronological-Matrix-Months.md)
+### Numerical Grid | 
+* [Abjad & Gematria (22/28)](./00-Numerical-Grid-Expansion.md)
+* [Calendar (12/12)](./01-Chronological-Matrix-Months.md)
 
 ### Siddur-Salah | The Sovereign Prayer Manual
 * [0. Access Keys: Basmala & Baruch](./0-ACCESS-KEYS-BASMALA-BARUCH.md)
