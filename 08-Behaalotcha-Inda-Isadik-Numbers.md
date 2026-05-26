@@ -3,7 +3,7 @@ Chapter 8
 
 
 
-[ IMPERIAL GRID OVERLAY: TABERNACLE SANCTUARY — NORTH/SOUTH SYMMETRY ]
+## IMPERIAL GRID OVERLAY: TABERNACLE SANCTUARY — NORTH/SOUTH SYMMETRY
 =========================================================================================
  
           [NORTH: Table of Showbread]             [CENTER: Altar of Incense]
