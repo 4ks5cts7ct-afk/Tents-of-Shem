@@ -106,7 +106,6 @@ Numbers 9:17: “And whenever the cloud was taken up from over the Tent, then af
 Surah 2:189: “They ask you, [O Muhammad], about the new moons. Say, 'They are measurements of time for the people and for Hajj.' And it is not righteousness to enter houses from the back, but righteousness is [in] one who fears Allah. And enter houses from their doors...”<br>
 Synthesis: The camp does not deliberate or vote on relocation; they move exclusively when the cloud lifts and freeze instantly when it settles. This absolute reliance on a visual timing signal enforces a strict operational order. 
 
-<pre>
 =========================================================================================
  [ THE ELEVATION MATRIX ]
                              
@@ -128,7 +127,7 @@ Synthesis: The camp does not deliberate or vote on relocation; they move exclusi
           The Lifting of the Head (Se'u et Rosh)
           -> Establishes Military Standing & Identity
 =========================================================================================
- <pre>
+
 
 Tier 1: Individual Identity (Se'u et Rosh): Every single person is lifted out of the anonymous mass. By counting them by name, God raises their head, giving them individual dignity, a defined legal asset value, and a specific military rank within the tribe.
 Tier 2: Ritual Function (Beha'alotcha): Once the individuals are organized, the priesthood steps up to elevate the lights of the Menorah. This ignites the internal software of the camp, transforming a raw physical army into a holy vehicle for the divine presence.
