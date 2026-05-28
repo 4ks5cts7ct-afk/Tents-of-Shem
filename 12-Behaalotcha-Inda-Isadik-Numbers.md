@@ -95,7 +95,7 @@ Numbers 12:12: "Let her not, I pray thee, be as one dead, of whom the flesh is h
 Surah Ta-Ha 20:25–26: "[Moses] said, 'My Lord, expand for me my breast [with assurance] and ease for me my task...'"<br>
 Synthesis:  Aaron describes Miriam's tzara'at condition with a terrifying, visceral metaphor: al-na tihi ka-met—"please let her not be like a dead corpse," comparing her skin to a stillborn child whose flesh is chaci bcharo (half-consumed/rotted) right out of the womb.  Aaron appeals directly to Moses' deep, shared maternal lineage ("out of his mother's womb"). 
 
-Numbers 12:13: "And Moses cried unto the LORD, saying: ‘Heal her now, O God, I pray Thee.’"
+Numbers 12:13: "And Moses cried unto the LORD, saying: ‘Heal her now, O God, I pray Thee.’",<br>
 Synthesis:  Moses instantly breaks his absolute silence. He does not hold a grudge, extract revenge, or say "I told you so." Operating out of his completely egoless capacity, he fires a hyper-compressed, urgent five-word audio cry straight to the Highest Level: Eil na rfa na lah—"O God, please, heal her now, please." This is the ultimate showcase of the un-encrypted, 24/7 mouth-to-mouth interface. Moses doesn't need to perform a long ritual, offer a sacrifice, or wait for a dream. He inputs a real-time, high-priority emergency command into the system to intercept the Divine penalty code and save his sister's life on the spot.
 
 Numbers 12:14: "And the LORD said unto Moses: ‘If her father had but spit in her face, should she not hide her shame seven days? let her be shut up without the camp seven days, and after that she shall be brought in again.’"
