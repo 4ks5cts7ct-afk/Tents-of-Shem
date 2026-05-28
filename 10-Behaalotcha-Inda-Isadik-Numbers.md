@@ -94,7 +94,7 @@ Numbers 10:36: “And when it rested, he said: ‘Return, O Lord, unto the ten t
 Surah 48:4: "It is He who sent down tranquility (Sakinah) into the hearts of the believers that they would increase in faith along with their [present] faith. And to Allah belong the soldiers of the heavens and the earth..." <br>
 Synthesis: When the Ark settles into its destination, Moses issues the closing acoustic command that anchors the divine presence back into the heart of the massed population. This rhythmic transition from combat deployment to localized sanctuary life secures the camp's stability during periods of stasis. By returning the sovereign presence directly to the "ten thousands of the thousands," the governance matrix confirms that the ultimate purpose of divine power is to dwell within and safeguard the collective human population.
 
-Understanding the "military" precision of the Israelites in the desert and studying the corresponsing surahs, invites the discussion into the area of warfare.<br>  
+Understanding the "military" precision of the Israelites in the desert and studying the corresponsing surahs, invites the discussion into the area of warfare. "Note on Terminology: This section utilizes the classical, multi-tiered theological definitions of 'Jihad' (striving) and 'Yisrael' (struggling) to examine the structural mechanics of spiritual and physical mobilization. It focuses on the linguistic and architectural symmetries between the traditions, independent of modern geopolitical conflicts."<br>  
 
 The Hebrew Meaning of Yisrael (ישראל) <br>
 Sarah (שָׂרָה): To struggle, strive, fight, exert power, or persevere.<br>
