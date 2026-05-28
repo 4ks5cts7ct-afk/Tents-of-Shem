@@ -132,11 +132,12 @@ The Prince’s Mandate: Expanding and Governing space<br>
 A Prince (Sar / Amir) is a ruler tasked with statecraft, civilization-building, law enforcement, and territorial security.<br>
 The Scope is Global: For Ishmael’s line, the ultimate manifestation was the rapid expansion of a global civilization.<br>
 The Struggle is Structural: To secure territory and unify vastly different tribes under the One True God, the "Princes" had to master Level 4 (Jihad al-Sayf). Their role was to build an outward political and legal fortress where monotheism could safely exist and expand.<br>
+
 The Priest’s Mandate: Guarding the Sacred Center<br>
 A Priest (Kohen) does not seek territory; in fact, the Tribe of Levi was explicitly denied a geographic land inheritance in the Torah (Numbers 18:20).<br>
 The Scope is Micro-Focused: The Priest's territory is the Tabernacle, the Temple, and the human heart.<br>
 The Struggle is Internal: Their job is to keep the fire burning on the altar, maintain absolute ritual purity, and execute the service in a strict, orderly, and uncompromising manner. To fail at internal vigilance (Level 1: Kibbush Ha-Yetzer) means the divine presence departs from the entire community.<br>
-The Complete Abrahamic Paradigm
+The Complete Abrahamic Paradigm: 
 Together, they form a complete, symbiotic ecosystem for the world:<br>
 The Ishmaelite Princes build and secure the physical walls of the empire, driving out idolatry on a massive societal scale.<br>
 The Israelite Priests stand at the absolute center of that space, raising the internal spiritual banner and holding the pristine, concentrated line of divine holiness. <br>
