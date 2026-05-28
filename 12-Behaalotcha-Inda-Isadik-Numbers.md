@@ -4,7 +4,8 @@ Chapter 12
 
  
 To accurately track this familial and leadership crisis, we will pull in a Quranic lens: Surah Ta-Ha (20:25–36). 
-This text details the intimate, foundational request Moses made to God to have his brother Aaron appointed as his co-leader, making the sibling friction in Numbers 12 a profound disruption of their original, divinely balanced partnership.
+This text details the intimate, foundational request Moses made to God to have his brother Aaron appointed as his co-leader, making the sibling friction in Numbers 12<br> 
+a profound disruption of their original, divinely balanced partnership.
 
 Numbers 12:1: "And Miriam and Aaron spoke against Moses (because of the Cushite woman whom he had married; for he had married a Cushite woman)."<br>
 Surah Ta-Ha 20:29–32: "And appoint for me a minister from my family—Aaron, my brother. Increase through him my strength and let him share my task."<br>
