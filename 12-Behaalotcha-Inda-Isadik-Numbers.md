@@ -91,7 +91,7 @@ Numbers 12:11: "And Aaron said unto Moses: ‘Oh my lord, lay not, I pray thee, 
 Surah Ta-Ha 20:30–31: "...Aaron, my brother. Increase through him my strength..."<br>
 Synthesis: Look at the immediate breakdown of Aaron’s pride. He completely drops the claim from verse 2 and uses the ultimate submission title: Bi adoni—"Oh my lord." He voluntarily submits his priestly hardware back under Moses' sovereign authority. The brother whom Moses prayed to be his strength and partner in Surah 20:30–31 is now entirely bent before him.  Aaron uses the raw, desperate phrase al-na taset aleinu chatat—"please do not place this sin upon us." He explicitly categorizes their sideways family coup attempt as a lethal error: asher no'alnu va-asher chata'nu ("in that we have acted foolishly and in that we have sinned"). 
 
-Numbers 12:12: "Let her not, I pray thee, be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb.’
+Numbers 12:12: "Let her not, I pray thee, be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb.’<br>
 Surah Ta-Ha 20:25–26: "[Moses] said, 'My Lord, expand for me my breast [with assurance] and ease for me my task...'"<br>
 Synthesis:  Aaron describes Miriam's tzara'at condition with a terrifying, visceral metaphor: al-na tihi ka-met—"please let her not be like a dead corpse," comparing her skin to a stillborn child whose flesh is chaci bcharo (half-consumed/rotted) right out of the womb.  Aaron appeals directly to Moses' deep, shared maternal lineage ("out of his mother's womb"). 
 
