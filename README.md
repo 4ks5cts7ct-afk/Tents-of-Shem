@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Welcome](./00-Welcome-Manifesto.md)
+* [Welcome](./00-Welcome.md)
 * [Search](./01-Search.md)
 
 ### Numerical Grid  
