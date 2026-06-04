@@ -6,6 +6,7 @@
 ### Numerical Grid  
 * [Abjad & Gematria (22/28)](./00-Numerical-Grid-Expansion.md)
 * [Calendar (12/12)](./01-Chronological-Matrix-Months.md)
+*  * [The Integration Code (The Diaspora, Shalosh Regalim, & Hijrah)](./03-IntegrationCode.md)
 *  * [The Four Pillars of the Shared Year](./02-The-Four-Pillars.md)
 
 
