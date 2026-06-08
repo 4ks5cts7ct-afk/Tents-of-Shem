@@ -1,7 +1,7 @@
 # Table of Contents
 
-* [Welcome](./00-Welcome.md)
-* [Search](./01-Search.md)
+* [Overview](./00-Welcome.md)
+
 
 ### Numerical Grid  
 * [Abjad & Gematria (22/28)](./00-Numerical-Grid-Expansion.md)
