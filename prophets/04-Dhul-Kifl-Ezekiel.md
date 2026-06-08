@@ -132,10 +132,10 @@ Synthesis: Ezekiel 40–42 shows technical blueprints for a future, idealized Sa
 
 The Re-Wiring of the Global Water Grid (The Living Source Terminal)
 
-Ezekiel 47:1: "Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar." 
-Ezekiel 47:9: "And it shall come to pass, that every thing that liveth, which moveth, whithersoever the rivers shall come, shall live... for they shall be healed; and every thing shall live whither the river cometh." 
-Surah Al-Anbiya (21:30) & Surah Muhammad (47:15) "...And We made from water every living thing. Will they not then believe?" / "...In it are rivers of water unaltered, rivers of milk the taste of which never changes..." 
-Synthesis: Ezekiel 47 outlines a future system where living, curative water flows directly from the Temple threshold to defragment and revive the deadest environments. This maps onto the ultimate Quranic core script: water as the primary mechanism for storing and distributing life (Hayah).
+Ezekiel 47:1: "Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar."<br>
+"Ezekiel 47:9: "And it shall come to pass, that every thing that liveth, which moveth, whithersoever the rivers shall come, shall live... for they shall be healed; and every thing shall live whither the river cometh."<br>
+"Surah Al-Anbiya (21:30) & Surah Muhammad (47:15): "...And We made from water every living thing. Will they not then believe?" / "...In it are rivers of water unaltered, rivers of milk the taste of which never changes...<br>
+"Synthesis: Ezekiel 47 outlines a future system where living, curative water flows directly from the Temple threshold to defragment and revive the deadest environments. This is engineered as a physical inversion of the current ecological crisis of the Salt Sea (Yam HaMelach). Historically a lush, watered paradise in Genesis 13, human water diversion and climate shifts have degraded the sea into a shrinking, hyper-saline desert plagued by structural sinkholes. Ezekiel's protocol serves as a corrective baseline patch: the prophetic stream introduces an environmental "all-clear" signal, diluting the extreme salinity to restore marine life and activate freshwater oases along the receding mudflats. This maps onto the ultimate Quranic core script: water as the primary mechanism for storing and distributing life (Hayah).
 
 The Talmudic Open-Source Verification Lock (The Preservation Script)
 
