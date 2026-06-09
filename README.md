@@ -15,6 +15,7 @@
 * [Wake Up: Modeh Ani & Waking Dua](./1-MODEH-ANI-WAKING-DUA.md)
 * [The Stand: Amidah & Salah](./2-3-4-AMIDAH-SALAH.md)
 * [Sleep: Hamapil & Isha](./5-HAMAPIL-ISHA.md)
+* [Shared Mourning: Generational Lineage](./7-shared-mourning.md)
 * [Sacred Rhythms-Biological Resets](./6-rhythm-resets.md)
 * *  [Bio-Electrical Grounding](./01-bio-electrical-grounding.md)
 
