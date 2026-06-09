@@ -15,6 +15,14 @@
 * [Wake Up: Modeh Ani & Waking Dua](./1-MODEH-ANI-WAKING-DUA.md)
 * [The Stand: Amidah & Salah](./2-3-4-AMIDAH-SALAH.md)
 * [Sleep: Hamapil & Isha](./5-HAMAPIL-ISHA.md)
+* [Neuro Somatic Protocols](./6-neuro-somatic.md)
+* *  [Bio-Electric Grounding](./01-bio-electric-grounding.md)
+* *  [Quantum Chemical Cleaning](./02-quantum-chemical-cleaning.md)
+* *  [Trauma Decompression Timeline](./03-trauma-decompression-timeline.md)
+* *  [Sacred Rhythms-Biological Resets](./04-Sacred-Rhythms-Biological-Resets.md)
+
+
+
 ---
 
 # The Prophets
