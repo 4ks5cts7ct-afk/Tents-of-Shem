@@ -70,7 +70,7 @@ Therefore, the account leaves only two logical paths: either it was a highly sop
 
 🔄 Re-Reading Aaron’s Rod Through the Geophysical Grid<br>
 The reasons for the blooming rod—the latent moisture, the vitrified sap channels, the chemical environment—should be viewed through geophysics:<br>
-The Tabernacle wasn't just a tent; it was a mobile Faraday cage constructed of conductive metals (gold, silver, bronze) and insulating skins, pitched at highly specific tectonic coordinates in the desert rift.<br>
+The Tabernacle wasn't just a tent; it was a mobile Faraday cage (refer to Numbers 16:28-33) constructed of conductive metals (gold, silver, bronze) and insulating skins, pitched at highly specific tectonic coordinates in the desert rift.<br>
 The "Before the Testimony" Anchor was placed directly over a highly active telluric current node.<br>
 The Electromagnetic Shock: When the geophysical engine fired through the ground, it didn't use slow chemical biology to wake up the rod. It blasted the staff with a precise, ultra-high-frequency electromagnetic pulse (EMP).:<br>
 The Structural Rewrite: This electrical surge didn't burn the wood because the Tabernacle's atmospheric resin-solvent mix (the incense) acted as a dielectric buffer. Instead, the sudden electric field forced an instantaneous, massive polarization of the water molecules and lipids inside the Shaked's dormant core. The telluric current acted as a biological defibrillator, forcing the plant's structural cells to align, expand, and rupture into blossoms using the raw electrical energy converted straight from the Earth's crust.:<br>
