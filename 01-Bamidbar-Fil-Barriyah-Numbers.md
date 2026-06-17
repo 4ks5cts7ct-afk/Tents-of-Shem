@@ -1,5 +1,5 @@
 Bamidbar | Fil-Barriyah | Numbers
-
+Chapter 1
 (Num 1:1–4:20): Hosea 2:1–22
 
 
