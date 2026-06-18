@@ -213,11 +213,10 @@
 * [Chapter 19](./19-Chukat-Faridat-Numbers.md)
 * [Chapter 20](./20-Chukat-Faridat-Numbers.md)
 * [Chapter 21](./21-Chukat-Faridat-Numbers.md)
-* [Chapter 22](./22-Chukat-Faridat-Numbers.md)
 
 ### Balak | Balaq | Numbers
 (Num 22:2–25:9): Micah 5:6–6:8
-* [Chapter 22b](./22b-Balak-Balaq-Numbers.md)
+* [Chapter 22](./22-Balak-Balaq-Numbers.md)
 * [Chapter 23](./23-Balak-Balaq-Numbers.md)
 * [Chapter 24](./24-Balak-Balaq-Numbers.md)
 * [Chapter 25](./25-Balak-Balaq-Numbers.md)
