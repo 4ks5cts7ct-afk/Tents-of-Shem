@@ -65,8 +65,6 @@ The “Decay Rate" is beginning to show subtle fluctuations as the lineage moves
 **Genesis 5:20:** "Thus all the days of Jared were 962 years, and he died."
 **Synthesis:** **Peak Longevity.** Jared achieves one of the highest "Uptime" records in the system. His long life serves as a massive bridge of continuity, spanning from the early ancients well into the era of the "Pre-Flood" acceleration.
 
-*Proceeding with the three-source integration (Genesis, Quran, and Ancient Tradition/Idris sync).*
-
 Genesis 5:21–24:** "When Enoch had lived 65 years, he fathered Methuselah. Enoch walked with God after he fathered Methuselah 300 years and had other sons and daughters. Thus all the days of Enoch were 365 years. Enoch walked with God, and he was not, for God took him."
 **Surah 19:56–57 Sync:** "And mention in the Book, Idris. Indeed, he was a man of truth and a prophet. And We raised him to a high station."
 **Synthesis:** **The Frequency Ascension (Triple-Stream Analysis):**
