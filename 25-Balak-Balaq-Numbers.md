@@ -86,8 +86,8 @@ Micah 6:1-5:<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;and to walk humbly with your God?  
 
 
-In Islamic scholarship, he is transliterated as Mīkhā (ميخا). His profile is preserved within the vast Isra'iliyyat (Prophetic Israelite traditions) chronicles compiled by master historians like Ibn Kathir (Stories of the Prophets) and Al-Tabari (History of the Prophets and Kings). Islamic chroniclers place Micah precisely where the Judaic matrix does—operating as a critical warning in the Southern Kingdom of Judah during the reigns of Jotham, Ahaz, and Hezekiah, working concurrently alongside Prophet Isaiah (Asha'ya). 
-Al-Tabari records that Micah was dispatched by the Sovereign Power Source to warn the kings of Judah against their rapid systemic deterioration. Islamic texts note that while the kings often ignored the localized warnings, Micah’s core function was to establish a legal record of warning before the Assyrian and Babylonian system wipes (the captivity) were executed. <br>
+In Islamic scholarship, he is transliterated as Mīkhā (ميخا). His profile is preserved within the vast Isra'iliyyat (Prophetic Israelite traditions) chronicles compiled by master historians like Ibn Kathir (Stories of the Prophets) and Al-Tabari (History of the Prophets and Kings). Islamic chroniclers place Micah precisely where the Judaic matrix does—operating as a critical warning in the Kingdoms during the reigns of Jotham, Ahaz, and Hezekiah, working concurrently alongside Prophet Isaiah (Asha'ya). 
+Al-Tabari records that Micah was dispatched by the Sovereign Power to warn the kings of Judah against their rapid systemic deterioration. Islamic texts note that while the kings often ignored the localized warnings, Micah’s core function was to establish a legal record of warning before the Assyrian and Babylonian system wipes (the captivity) were executed. <br>
 
 Micah 6:6–8 ("Will the Lord be pleased with thousands of rams...?")<br>
 Surah Al-Hajj 22:37 states: "Their meat will not reach Allah, nor will their blood, but what reaches Him is piety from you."<br>
