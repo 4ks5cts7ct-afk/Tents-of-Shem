@@ -122,12 +122,90 @@
 * [Chapter 47:1-27](./47-Vayigash-Al-Iqtirab-Genesis.md)
 * [Ezekiel](./11-Ezekiel.md)
 
-### Vayechi | Al-Baqa' | Genesis
+### Vayechi | Al-Baqa | Genesis
 * [Chapter 47:28-31](./47b-Vayechi-Al-Baqa-Genesis.md)
 * [Chapter 48](./48-Vayechi-Al-Baqa-Genesis.md)
 * [Chapter 49](./49-Vayechi-Al-Baqa-Genesis.md)
 * [Chapter 50](./50-Vayechi-Al-Baqa-Genesis.md)
 * [I Kings](./12-I-Kings.md)
+
+* ### Shemot | Al-Asma | Exodus
+* [Chapter 1](./01-Shemot-Al-Asma-Exodus.md)
+* [Chapter 2](./02-Shemot-Al-Asma-Exodus.md)
+* [Chapter 3](./03-Shemot-Al-Asma-Exodus.md)
+* [Chapter 4](./04-Shemot-Al-Asma-Exodus.md)
+* [Chapter 5](./05-Shemot-Al-Asma-Exodus.md)
+* [Isaiah](./13-Isaiah.md)
+
+### Vaera | Al-Tajalli | Exodus 
+* [Chapter 6](./06-Vaera-Al-Tajalli-Exodus.md)
+* [Chapter 7](./07-Vaera-Al-Tajalli-Exodus.md)
+* [Chapter 8](./08-Vaera-Al-Tajalli-Exodus.md)
+* [Chapter 9](./09-Vaera-Al-Tajalli-Exodus.md)
+* [Ezekiel](./14-Ezekiel.md)
+
+### Bo | Al-Dukhul | Exodus 
+* [Chapter 10](./10-Bo-Al-Dukhul-Exodus.md)
+* [Chapter 11](./11-Bo-Al-Dukhul-Exodus.md)
+* [Chapter 12](./12-Bo-Al-Dukhul-Exodus.md)
+* [Chapter 13](./13-Bo-Al-Dukhul-Exodus.md)
+* [Jeremiah](./15-Jeremiah.md)
+
+### Beshalach | Al-Bas'th | Exodus
+* [Chapter 13b](./13b-Beshalach-Al-Basth-Exodus.md)
+* [Chapter 14](./14-Beshalach-Al-Basth-Exodus.md)
+* [Chapter 15](./15-Beshalach-Al-Basth-Exodus.md)
+* [Chapter 16](./16-Beshalach-Al-Basth-Exodus.md)
+* [Chapter 17](./17-Beshalach-Al-Basth-Exodus.md)
+* [Judges](./16-Judges.md)
+
+### Yitro | Shu'ayb | Exodus
+* [Chapter 18](./18-Yitro-Shuayb-Exodus.md)
+* [Chapter 19](./19-Yitro-Shuayb-Exodus.md)
+* [Chapter 20](./20-Yitro-Shuayb-Exodus.md)
+* [Isaiah](./17-Isaiah.md)
+
+### Mishpatim | Al-Ahkam | Exodus
+* [Chapter 21](./21-Mishpatim-Al-Ahkam-Exodus.md)
+* [Chapter 22](./22-Mishpatim-Al-Ahkam-Exodus.md)
+* [Chapter 23](./23-Mishpatim-Al-Ahkam-Exodus.md)
+* [Chapter 24](./24-Mishpatim-Al-Ahkam-Exodus.md)
+* [Jeremiah](./18-Jeremiah.md)
+
+### Terumah | Al-Sadaqah | Exodus
+* [Chapter 24b](./24b-Terumah-Al-Sadaqah-Exodus.md)
+* [Chapter 25](./25-Terumah-Al-Sadaqah-Exodus.md)
+* [Chapter 26](./26-Terumah-Al-Sadaqah-Exodus.md)
+* [Chapter 27](./27-Terumah-Al-Sadaqah-Exodus.md)
+* [I Kings](./19-I-Kings.md)
+
+### Tetzaveh | Al-Amr | Exodus
+* [Chapter 27b](./27b-Tetzaveh-Al-Amr-Exodus.md)
+* [Chapter 28](./28-Tetzaveh-Al-Amr-Exodus.md)
+* [Chapter 29](./29-Tetzaveh-Al-Amr-Exodus.md)
+* [Chapter 30](./30-Tetzaveh-Al-Amr-Exodus.md)
+* [Ezekiel](./20-Ezekiel.md)
+
+### Ki Tisa | Al-Ihsa' | Exodus
+* [Chapter 30b](./30b-Ki-Tisa-Al-Ihsa-Exodus.md)
+* [Chapter 31](./31-Ki-Tisa-Al-Ihsa-Exodus.md)
+* [Chapter 32](./32-Ki-Tisa-Al-Ihsa-Exodus.md)
+* [Chapter 33](./33-Ki-Tisa-Al-Ihsa-Exodus.md)
+* [Chapter 34](./34-Ki-Tisa-Al-Ihsa-Exodus.md)
+* [I Kings](./21-I-Kings.md)
+
+### Vayakhel | Al-Jama'ah | Exodus
+* [Chapter 35](./35-Vayakhel-Al-Jamaah-Exodus.md)
+* [Chapter 36](./36-Vayakhel-Al-Jamaah-Exodus.md)
+* [Chapter 37](./37-Vayakhel-Al-Jamaah-Exodus.md)
+* [Chapter 38](./38-Vayakhel-Al-Jamaah-Exodus.md)
+* [I Kings](./22-I-Kings.md)
+
+### Pekudei | Al-Hisab | Exodus
+* [Chapter 38b](./38b-Pekudei-Al-Hisab-Exodus.md)
+* [Chapter 39](./39-Pekudei-Al-Hisab-Exodus.md)
+* [Chapter 40](./40-Pekudei-Al-Hisab-Exodus.md)
+* [I Kings](./23-I-Kings.md)
 
 ### Vayikra | Al-Nida’ | Leviticus
 (Lev 1:1–5:26): Isaiah 43:21–44:23
