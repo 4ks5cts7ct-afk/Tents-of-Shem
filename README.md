@@ -39,6 +39,7 @@
 * [Scripture Specifications](./00-Scriptural-Grid-Architecture.md)
   
 ### Bereshit | Al-Fatihah | Genesis
+(Gen 1:1–6:8): Isaiah 42:5–43:10
 * [Chapter 1](./01-Bereshit-Al-Fatihah-Genesis.md)
 * [Chapter 2](./02-Bereshit-Al-Fatihah-Genesis.md)
 * [Chapter 3](./03-Bereshit-Al-Fatihah-Genesis.md)
@@ -47,6 +48,7 @@
 * [Isaiah](./01-Isaiah.md)
 
 ### Noach | Nuh | Genesis
+(Gen 6:9–11:32): Isaiah 54:1–55:5
 * [Chapter 6](./06-Noach-Nuh-Genesis.md)
 * [Chapter 7](./07-Noach-Nuh-Genesis.md)
 * [Chapter 8](./08-Noach-Nuh-Genesis.md)
@@ -56,6 +58,7 @@
 * [Isaiah](./02-Isaiah.md)
 
 ### Lech-Lecha | Al-Hijrah | Genesis
+(Gen 12:1–17:27): Isaiah 40:27–41:16
 * [Chapter 12](./12-Lech-Lecha-Al-Hijrah-Genesis.md)
 * [Chapter 13](./13-Lech-Lecha-Al-Hijrah-Genesis.md)
 * [Chapter 14](./14-Lech-Lecha-Al-Hijrah-Genesis.md)
@@ -65,6 +68,7 @@
 * [Isaiah](./03-Isaiah.md)
 
 ### Vayera | Al-Ru'ya | Genesis
+(Genesis 18:1–22:24): 2 Kings 4:1–37
 * [Chapter 18](./18-Vayera-Al-Ruya-Genesis.md)
 * [Chapter 19](./19-Vayera-Al-Ruya-Genesis.md)
 * [Chapter 20](./20-Vayera-Al-Ruya-Genesis.md)
@@ -73,11 +77,13 @@
 * [II Kings](./04-II-Kings.md)
 
 ### Chayei Sara | Hayat | Genesis
+(Genesis 23:1–25:18): 1 Kings 1:1–31
 * [Chapter 23](./23-Chayei-Sara-Hayat-Genesis.md)
 * [Chapter 24:1-18](./24-Chayei-Sara-Hayat-Genesis.md)
 * [I Kings](./05-I-Kings.md)
 
 ### Toldot | Al-Nasab | Genesis
+(Genesis 25:19–28:9): Malachi 1:1–2:7
 * [Chapter 24:19-34](./24b-Toldot-Al-Nasab-Genesis.md)
 * [Chapter 25](./25-Toldot-Al-Nasab-Genesis.md)
 * [Chapter 26](./26-Toldot-Al-Nasab-Genesis.md)
@@ -86,6 +92,7 @@
 * [Malachi](./06-Malachi.md)
 
 ### Vayetze | Al-Khuruj | Genesis
+(Genesis 28:10–32:3): Hosea 11:7– 14:10 
 * [Chapter 28:10-22](./28b-Vayetze-Al-Khuruj-Genesis.md)
 * [Chapter 29](./29-Vayetze-Al-Khuruj-Genesis.md)
 * [Chapter 30](./30-Vayetze-Al-Khuruj-Genesis.md)
@@ -94,6 +101,7 @@
 * [Hosea](./07-Hosea.md)
 
 ### Vayishlach | Al-Irsal | Genesis
+(Genesis 32:4–36:43): Obadiah 1:1–21/Hosea 11:7–12:12
 * [Chapter 32:4-32](./32b-Vayishlach-Al-Irsal-Genesis.md)
 * [Chapter 33](./33-Vayishlach-Al-Irsal-Genesis.md)
 * [Chapter 34](./34-Vayishlach-Al-Irsal-Genesis.md)
@@ -102,6 +110,7 @@
 * [Obadiah](./08-Obadiah.md)
 
 ### Vayeshev | Al-Istiqaar | Genesis
+(Gen. 37:1–40:23): Amos 2:6–3:8
 * [Chapter 37](./37-Vayeshev-Al-Istiqaar-Genesis.md)
 * [Chapter 38](./38-Vayeshev-Al-Istiqaar-Genesis.md)
 * [Chapter 39](./39-Vayeshev-Al-Istiqaar-Genesis.md)
@@ -109,6 +118,7 @@
 * [Amos](./09-Amos.md)
 
 ### Miketz | Al-Intiha' | Genesis
+(Gen. 41:1–44:17): 1 Kings 3:15–4:1
 * [Chapter 41](./41-Miketz-Al-Intiha-Genesis.md)
 * [Chapter 42](./42-Miketz-Al-Intiha-Genesis.md)
 * [Chapter 43](./43-Miketz-Al-Intiha-Genesis.md)
@@ -116,6 +126,7 @@
 * [I Kings](./10-I-Kings.md)
 
 ### Vayigash | Al-Iqtirab | Genesis
+(Gen. 44:18–47:27): Ezekiel 37:15–28
 * [Chapter 44:19-34](./44b-Vayigash-Al-Iqtirab-Genesis.md)
 * [Chapter 45](./45-Vayigash-Al-Iqtirab-Genesis.md)
 * [Chapter 46](./46-Vayigash-Al-Iqtirab-Genesis.md)
@@ -123,6 +134,7 @@
 * [Ezekiel](./11-Ezekiel.md)
 
 ### Vayechi | Al-Baqa | Genesis
+(Gen. 47:28–50:26): 1 Kings 2:1–12
 * [Chapter 47:28-31](./47b-Vayechi-Al-Baqa-Genesis.md)
 * [Chapter 48](./48-Vayechi-Al-Baqa-Genesis.md)
 * [Chapter 49](./49-Vayechi-Al-Baqa-Genesis.md)
@@ -130,6 +142,7 @@
 * [Haftorah Intercept: I Kings](./12-I-Kings.md)
 
 ### Shemot | Al-Asma | Exodus
+(Exodus 1:1–6:1): Isaiah 27:6–28:13 & 29:22–23/Jeremiah 1:1–2:3
 * [Chapter 1](./01-Shemot-Al-Asma-Exodus.md)
 * [Chapter 2](./02-Shemot-Al-Asma-Exodus.md)
 * [Chapter 3](./03-Shemot-Al-Asma-Exodus.md)
@@ -137,8 +150,8 @@
 * [Chapter 5](./05-Shemot-Al-Asma-Exodus.md)
 * [Haftorah Intercept: Isaiah](./13-Isaiah.md)
 
-
 ### Vaera | Al-Tajalli | Exodus 
+(Exodus 6:2–9:35): Ezekiel 28:25–29:21
 * [Chapter 6](./06-Vaera-Al-Tajalli-Exodus.md)
 * [Chapter 7](./07-Vaera-Al-Tajalli-Exodus.md)
 * [Chapter 8](./08-Vaera-Al-Tajalli-Exodus.md)
@@ -146,6 +159,7 @@
 * [Ezekiel](./14-Ezekiel.md)
 
 ### Bo | Al-Dukhul | Exodus 
+(Exodus 10:1–13:16): Jeremiah 46:13–28
 * [Chapter 10](./10-Bo-Al-Dukhul-Exodus.md)
 * [Chapter 11](./11-Bo-Al-Dukhul-Exodus.md)
 * [Chapter 12](./12-Bo-Al-Dukhul-Exodus.md)
@@ -153,6 +167,7 @@
 * [Jeremiah](./15-Jeremiah.md)
 
 ### Beshalach | Al-Bas'th | Exodus
+(Exodus 13:17–17:16): Judges 4:4–5:31
 * [Chapter 13b](./13b-Beshalach-Al-Basth-Exodus.md)
 * [Chapter 14](./14-Beshalach-Al-Basth-Exodus.md)
 * [Chapter 15](./15-Beshalach-Al-Basth-Exodus.md)
@@ -161,12 +176,14 @@
 * [Judges](./16-Judges.md)
 
 ### Yitro | Shu'ayb | Exodus
+(Exodus 18:1–20:23): Isaiah 6:1–7:6 & 9:5–6 & 
 * [Chapter 18](./18-Yitro-Shuayb-Exodus.md)
 * [Chapter 19](./19-Yitro-Shuayb-Exodus.md)
 * [Chapter 20](./20-Yitro-Shuayb-Exodus.md)
 * [Isaiah](./17-Isaiah.md)
 
 ### Mishpatim | Al-Ahkam | Exodus
+(Exodus 21:1–24:18): Jeremiah 34:8–22 & 33:25–26
 * [Chapter 21](./21-Mishpatim-Al-Ahkam-Exodus.md)
 * [Chapter 22](./22-Mishpatim-Al-Ahkam-Exodus.md)
 * [Chapter 23](./23-Mishpatim-Al-Ahkam-Exodus.md)
@@ -174,6 +191,7 @@
 * [Jeremiah](./18-Jeremiah.md)
 
 ### Terumah | Al-Sadaqah | Exodus
+(Exodus 25:1–27:19): 1 Kings 5:26–6:13
 * [Chapter 24b](./24b-Terumah-Al-Sadaqah-Exodus.md)
 * [Chapter 25](./25-Terumah-Al-Sadaqah-Exodus.md)
 * [Chapter 26](./26-Terumah-Al-Sadaqah-Exodus.md)
@@ -181,6 +199,7 @@
 * [I Kings](./19-I-Kings.md)
 
 ### Tetzaveh | Al-Amr | Exodus
+(Exodus 27:20–30:10): Ezekiel 43:10–27
 * [Chapter 27b](./27b-Tetzaveh-Al-Amr-Exodus.md)
 * [Chapter 28](./28-Tetzaveh-Al-Amr-Exodus.md)
 * [Chapter 29](./29-Tetzaveh-Al-Amr-Exodus.md)
@@ -188,6 +207,7 @@
 * [Ezekiel](./20-Ezekiel.md)
 
 ### Ki Tisa | Al-Ihsa' | Exodus
+(Exodus 30:11–34:35): 1 Kings 18:1–39
 * [Chapter 30b](./30b-Ki-Tisa-Al-Ihsa-Exodus.md)
 * [Chapter 31](./31-Ki-Tisa-Al-Ihsa-Exodus.md)
 * [Chapter 32](./32-Ki-Tisa-Al-Ihsa-Exodus.md)
@@ -196,6 +216,7 @@
 * [I Kings](./21-I-Kings.md)
 
 ### Vayakhel | Al-Jama'ah | Exodus
+(Exodus 35:1–38:20): 1 Kings 7:13–26 & 1 Kings 7:40–50
 * [Chapter 35](./35-Vayakhel-Al-Jamaah-Exodus.md)
 * [Chapter 36](./36-Vayakhel-Al-Jamaah-Exodus.md)
 * [Chapter 37](./37-Vayakhel-Al-Jamaah-Exodus.md)
@@ -203,12 +224,14 @@
 * [I Kings](./22-I-Kings.md)
 
 ### Pekudei | Al-Hisab | Exodus
+(Exodus 38:21–40:38): 1 Kings 7:40–8:21
 * [Chapter 38b](./38b-Pekudei-Al-Hisab-Exodus.md)
 * [Chapter 39](./39-Pekudei-Al-Hisab-Exodus.md)
 * [Chapter 40](./40-Pekudei-Al-Hisab-Exodus.md)
 * [I Kings](./23-I-Kings.md)
 
 ### Vayikra | Al-Nida’ | Leviticus
+(Leviticus 1:1–5:26): Isaiah 43:21–44:23
 (Lev 1:1–5:26): Isaiah 43:21–44:23
 * [Chapter 1](./01-Vayikra-Al-Nida-Leviticus.md)
 * [Chapter 2](./02-Vayikra-Al-Nida-Leviticus.md)
@@ -218,6 +241,7 @@
 * [Isaiah](./13-Isaiah.md)
 
 ### Tzav | Al-Amr | Leviticus
+(Leviticus 6:1–8:36): Jeremiah 7:21–8:3 & 9:22–23
 (Lev 6:1–8:36): Jeremiah 7:21–8:3, 9:22–23
 * [Chapter 6](./06-Tzav-Al-Amr-Leviticus.md)
 * [Chapter 7](./07-Tzav-Al-Amr-Leviticus.md)
