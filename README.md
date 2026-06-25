@@ -129,7 +129,7 @@
 * [Chapter 50](./50-Vayechi-Al-Baqa-Genesis.md)
 * [I Kings](./12-I-Kings.md)
 
-* ### Shemot | Al-Asma | Exodus
+### Shemot | Al-Asma | Exodus
 * [Chapter 1](./01-Shemot-Al-Asma-Exodus.md)
 * [Chapter 2](./02-Shemot-Al-Asma-Exodus.md)
 * [Chapter 3](./03-Shemot-Al-Asma-Exodus.md)
