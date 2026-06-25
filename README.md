@@ -168,6 +168,7 @@
 ### Behar | Fil-Jabal | Leviticus
 (Lev 25:1–26:2): Jeremiah 32:6–27
 * [Chapter 25](./25-Behar-Fil-Jabal-Leviticus.md)
+* * [Haftorah Jeremiah](./32-Haftorah-Jeremiah.md)
 
 ### Bechukotai | Bi-Fara’idi | Leviticus
 (Lev 26:3–27:34): Jeremiah 16:19–17:14
@@ -220,7 +221,7 @@
 * [Chapter 23](./23-Balak-Balaq-Numbers.md)
 * [Chapter 24](./24-Balak-Balaq-Numbers.md)
 * [Chapter 25](./25-Balak-Balaq-Numbers.md)
-* * [Haftorah Micah 5:6–6:8)](./40-Micah.md)
+* * [Haftorah Micah )](./40-Micah.md)
 
 ### Pinchas | Finhas | Numbers
 (Num 25:10–30:1): I Kings 18:46–19:21
