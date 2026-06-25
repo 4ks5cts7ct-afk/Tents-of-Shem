@@ -221,7 +221,7 @@
 * [Chapter 23](./23-Balak-Balaq-Numbers.md)
 * [Chapter 24](./24-Balak-Balaq-Numbers.md)
 * [Chapter 25](./25-Balak-Balaq-Numbers.md)
-* * [Haftorah Micah )](./40-Micah.md)
+* * [Micah](./40-Micah.md)
 
 ### Pinchas | Finhas | Numbers
 (Num 25:10–30:1): I Kings 18:46–19:21
