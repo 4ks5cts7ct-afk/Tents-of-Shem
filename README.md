@@ -139,7 +139,7 @@
 * [Chapter 48](./48-Vayechi-Al-Baqa-Genesis.md)
 * [Chapter 49](./49-Vayechi-Al-Baqa-Genesis.md)
 * [Chapter 50](./50-Vayechi-Al-Baqa-Genesis.md)
-* [Haftorah Intercept: I Kings](./12-I-Kings.md)
+* [Haftorah: I Kings](./12-I-Kings.md)
 
 ### Shemot | Al-Asma | Exodus
 (Exodus 1:1–6:1): Isaiah 27:6–28:13 & 29:22–23/Jeremiah 1:1–2:3
@@ -148,7 +148,7 @@
 * [Chapter 3](./03-Shemot-Al-Asma-Exodus.md)
 * [Chapter 4](./04-Shemot-Al-Asma-Exodus.md)
 * [Chapter 5](./05-Shemot-Al-Asma-Exodus.md)
-* [Haftorah Intercept: Isaiah](./13-Isaiah.md)
+* [Haftorah: Isaiah](./13-Isaiah.md)
 
 ### Vaera | Al-Tajalli | Exodus 
 (Exodus 6:2–9:35): Ezekiel 28:25–29:21
