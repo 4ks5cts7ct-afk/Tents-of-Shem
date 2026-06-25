@@ -174,6 +174,7 @@
 (Lev 26:3–27:34): Jeremiah 16:19–17:14
 * [Chapter 26](./26-Bechukotai-Bi-Faraidi-Leviticus.md)
 * [Chapter 27](./27-Bechukotai-Bi-Faraidi-Leviticus.md)
+* * [Jeremiah](./32-Haftorah-Jeremiah.md)
 
 ### Bamidbar | Fil-Barriyah | Numbers
 (Num 1:1–4:20): Hosea 2:1–22
