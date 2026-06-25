@@ -228,11 +228,10 @@
 * [Chapter 27](./27-Pinchas-Finhas-Numbers.md)
 * [Chapter 28](./28-Pinchas-Finhas-Numbers.md)
 * [Chapter 29](./29-Pinchas-Finhas-Numbers.md)
-* [Chapter 30](./30-Pinchas-Finhas-Numbers.md)
 
 ### Matot | Al-Asbat | Numbers
 (Num 30:2–32:42): Jeremiah 1:1–2:3
-* [Chapter 30b](./30b-Matot-Al-Asbat-Numbers.md)
+* [Chapter 30](./30-Matot-Al-Asbat-Numbers.md)
 * [Chapter 31](./31-Matot-Al-Asbat-Numbers.md)
 * [Chapter 32](./32-Matot-Al-Asbat-Numbers.md)
 
