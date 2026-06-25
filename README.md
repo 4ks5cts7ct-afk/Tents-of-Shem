@@ -168,7 +168,7 @@
 ### Behar | Fil-Jabal | Leviticus
 (Lev 25:1–26:2): Jeremiah 32:6–27
 * [Chapter 25](./25-Behar-Fil-Jabal-Leviticus.md)
-* * [Haftorah Jeremiah](./32-Haftorah-Jeremiah.md)
+* * [Jeremiah](./32-Haftorah-Jeremiah.md)
 
 ### Bechukotai | Bi-Fara’idi | Leviticus
 (Lev 26:3–27:34): Jeremiah 16:19–17:14
