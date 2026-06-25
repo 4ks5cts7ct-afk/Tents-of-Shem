@@ -1,4 +1,4 @@
-### Jeremiah 16:19–17:14 (33)
+### Jeremiah 16:19–17:14 
 In the Jewish tradition, this portion from the Nevi'im connects to the parsha of Behcukotai<br>
 
 Jeremiah 16:19–21<br>
