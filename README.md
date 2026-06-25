@@ -168,13 +168,13 @@
 ### Behar | Fil-Jabal | Leviticus
 (Lev 25:1–26:2): Jeremiah 32:6–27
 * [Chapter 25](./25-Behar-Fil-Jabal-Leviticus.md)
-* * [Jeremiah](./32-Haftorah-Jeremiah.md)
+* [Jeremiah](./32-Haftorah-Jeremiah.md)
 
 ### Bechukotai | Bi-Fara’idi | Leviticus
 (Lev 26:3–27:34): Jeremiah 16:19–17:14
 * [Chapter 26](./26-Bechukotai-Bi-Faraidi-Leviticus.md)
 * [Chapter 27](./27-Bechukotai-Bi-Faraidi-Leviticus.md)
-* * [Jeremiah](./33-Haftorah-Jeremiah.md)
+* [Jeremiah](./33-Haftorah-Jeremiah.md)
 
 ### Bamidbar | Fil-Barriyah | Numbers
 (Num 1:1–4:20): Hosea 2:1–22
@@ -182,7 +182,7 @@
 * [Chapter 2](./02-Bamidbar-Fil-Barriyah-Numbers.md)
 * [Chapter 3](./03-Bamidbar-Fil-Barriyah-Numbers.md)
 * [Chapter 4](./04-Bamidbar-Fil-Barriyah-Numbers.md)
-* * [Hosea](./34-Hosea.md)
+* [Hosea](./34-Hosea.md)
 
 ### Nasso | Irfa’ | Numbers
 (Num 4:21–7:89): Judges 13:2–25
@@ -190,7 +190,7 @@
 * [Chapter 5](./05-Nasso-Irfa-Numbers.md)
 * [Chapter 6](./06-Nasso-Irfa-Numbers.md)
 * [Chapter 7](./07-Nasso-Irfa-Numbers.md)
-* * [Judges](./35-Judges.md)
+* [Judges](./35-Judges.md)
 
 ### Beha'alotcha | Inda Is’adik | Numbers
 (Num 8:1–12:16): Zechariah 2:14–4:7
@@ -199,28 +199,28 @@
 * [Chapter 10](./10-Behaalotcha-Inda-Isadik-Numbers.md)
 * [Chapter 11](./11-Behaalotcha-Inda-Isadik-Numbers.md)
 * [Chapter 12](./12-Behaalotcha-Inda-Isadik-Numbers.md)
-* * [Zechariah](./36-Zechariah.md)
+* [Zechariah](./36-Zechariah.md)
 
 ### Sh'lach | Arsil | Numbers
 (Num 13:1–15:41): Joshua 2:1–24
 * [Chapter 13](./13-Shlach-Arsil-Numbers.md)
 * [Chapter 14](./14-Shlach-Arsil-Numbers.md)
 * [Chapter 15](./15-Shlach-Arsil-Numbers.md)
-* * [Joshua](./37-Joshua.md)
+* [Joshua](./37-Joshua.md)
 
 ### Korach | Qarun | Numbers
 (Num 16:1–18:32): I Samuel 11:14–12:22
 * [Chapter 16](./16-Korach-Qarun-Numbers.md)
 * [Chapter 17](./17-Korach-Qarun-Numbers.md)
 * [Chapter 18](./18-Korach-Qarun-Numbers.md)
-* * [I Samuel](./38-I-Samuel.md)
+* [I Samuel](./38-I-Samuel.md)
 
 ### Chukat | Faridat | Numbers
 (Num 19:1–22:1): Judges 11:1–33
 * [Chapter 19](./19-Chukat-Faridat-Numbers.md)
 * [Chapter 20](./20-Chukat-Faridat-Numbers.md)
 * [Chapter 21](./21-Chukat-Faridat-Numbers.md)
-* * [Judges](./39-Judges.md)
+* [Judges](./39-Judges.md)
 
 ### Balak | Balaq | Numbers
 (Num 22:2–25:9): Micah 5:6–6:8
@@ -228,7 +228,7 @@
 * [Chapter 23](./23-Balak-Balaq-Numbers.md)
 * [Chapter 24](./24-Balak-Balaq-Numbers.md)
 * [Chapter 25](./25-Balak-Balaq-Numbers.md)
-* * [Micah](./40-Micah.md)
+* [Micah](./40-Micah.md)
 
 ### Pinchas | Finhas | Numbers
 (Num 25:10–30:1): I Kings 18:46–19:21
@@ -237,14 +237,14 @@
 * [Chapter 27](./27-Pinchas-Finhas-Numbers.md)
 * [Chapter 28](./28-Pinchas-Finhas-Numbers.md)
 * [Chapter 29](./29-Pinchas-Finhas-Numbers.md)
-* * [I Kings](./41-I-Kings.md)
+* [I Kings](./41-I-Kings.md)
 
 ### Matot | Al-Asbat | Numbers
 (Num 30:2–32:42): Jeremiah 1:1–2:3
 * [Chapter 30](./30-Matot-Al-Asbat-Numbers.md)
 * [Chapter 31](./31-Matot-Al-Asbat-Numbers.md)
 * [Chapter 32](./32-Matot-Al-Asbat-Numbers.md)
-* * [Jeremiah](./42-Jeremiah.md)
+* [Jeremiah](./42-Jeremiah.md)
 
 ### Masei | Rihlat | Numbers
 (Num 33:1–36:13): Jeremiah 2:4–28, 3:4
@@ -252,14 +252,14 @@
 * [Chapter 34](./34-Masei-Rihlat-Numbers.md)
 * [Chapter 35](./35-Masei-Rihlat-Numbers.md)
 * [Chapter 36](./36-Masei-Rihlat-Numbers.md)
-* * [Jeremiah](./43-Jeremiah.md)
+* [Jeremiah](./43-Jeremiah.md)
 
 ### Devarim | Al-Kalimat | Deuteronomy
 (Deut 1:1–3:22): Isaiah 1:1–27
 * [Chapter 1](./01-Devarim-Al-Kalimat-Deuteronomy.md)
 * [Chapter 2](./02-Devarim-Al-Kalimat-Deuteronomy.md)
 * [Chapter 3](./03-Devarim-Al-Kalimat-Deuteronomy.md)
-* * [Isaiah](./44-Isaiah.md)
+* [Isaiah](./44-Isaiah.md)
 
 ### Vaetchanan | Wa-Tadarra'tu | Deuteronomy
 (Deut 3:23–7:11): Isaiah 40:1–26
@@ -268,7 +268,7 @@
 * [Chapter 5](./05-Vaetchanan-Wa-Tadarratu-Deuteronomy.md)
 * [Chapter 6](./06-Vaetchanan-Wa-Tadarratu-Deuteronomy.md)
 * [Chapter 7](./07-Vaetchanan-Wa-Tadarratu-Deuteronomy.md)
-* * [Isaiah](./45-Isaiah.md)
+* [Isaiah](./45-Isaiah.md)
 
 ### Ekev | Bi-Sababi | Deuteronomy
 (Deut 7:12–11:25): Isaiah 49:14–51:3
@@ -277,7 +277,7 @@
 * [Chapter 9](./09-Ekev-Bi-Sababi-Deuteronomy.md)
 * [Chapter 10](./10-Ekev-Bi-Sababi-Deuteronomy.md)
 * [Chapter 11](./11-Ekev-Bi-Sababi-Deuteronomy.md)
-* * [Isaiah](./46-Isaiah.md)
+* [Isaiah](./46-Isaiah.md)
 
 ### Re'eh | Unzur | Deuteronomy
 (Deut 11:26–16:17): Isaiah 54:11–55:5
@@ -287,7 +287,7 @@
 * [Chapter 14](./14-Reeh-Unzur-Deuteronomy.md)
 * [Chapter 15](./15-Reeh-Unzur-Deuteronomy.md)
 * [Chapter 16](./16-Reeh-Unzur-Deuteronomy.md)
-* * [Isaiah](./47-Isaiah.md)
+* [Isaiah](./47-Isaiah.md)
 
 ### Shoftim | Al-Quḍat | Deuteronomy
 (Deut 16:18–21:9): Isaiah 51:12–52:12
@@ -297,7 +297,7 @@
 * [Chapter 19](./19-Shoftim-Al-Qudat-Deuteronomy.md)
 * [Chapter 20](./20-Shoftim-Al-Qudat-Deuteronomy.md)
 * [Chapter 21](./21-Shoftim-Al-Qudat-Deuteronomy.md)
-* * [Isaiah](./48-Isaiah.md)
+* [Isaiah](./48-Isaiah.md)
 
 ### Ki Teitzei | Itha Kharajta | Deuteronomy
 (Deut 21:10–25:19): Isaiah 54:1–10
@@ -306,7 +306,7 @@
 * [Chapter 23](./23-Ki-Teitzei-Itha-Kharajta-Deuteronomy.md)
 * [Chapter 24](./24-Ki-Teitzei-Itha-Kharajta-Deuteronomy.md)
 * [Chapter 25](./25-Ki-Teitzei-Itha-Kharajta-Deuteronomy.md)
-* * [Isaiah](./49-Isaiah.md)
+* [Isaiah](./49-Isaiah.md)
 
 ### Ki Tavo | Itha Atayta | Deuteronomy
 (Deut 26:1–29:8): Isaiah 60:1–22
@@ -314,29 +314,29 @@
 * [Chapter 27](./27-Ki-Tavo-Itha-Atayta-Deuteronomy.md)
 * [Chapter 28](./28-Ki-Tavo-Itha-Atayta-Deuteronomy.md)
 * [Chapter 29](./29-Ki-Tavo-Itha-Atayta-Deuteronomy.md)
-* * [Isaiah](./50-Isaiah.md)
+* [Isaiah](./50-Isaiah.md)
 
 ### Nitzavim | Al-Waqifun | Deuteronomy
 (Deut 29:9–30:20): Isaiah 61:10–63:9
 * [Chapter 29b](./29b-Nitzavim-Al-Waqifun-Deuteronomy.md)
 * [Chapter 30](./30-Nitzavim-Al-Waqifun-Deuteronomy.md)
-* * [Isaiah](./51-Isaiah.md)
+* [Isaiah](./51-Isaiah.md)
 
 ### Vayelech | Wa-Madha | Deuteronomy
 (Deut 31:1–31:30): Hosea 14:2–10
 * [Chapter 31](./31-Vayelech-Wa-Madha-Deuteronomy.md)
-* * [Hosea](./52-Hosea.md)
+* [Hosea](./52-Hosea.md)
 
 ### Ha'azinu | Isma’u | Deuteronomy
 (Deut 32:1–32:52): II Samuel 22:1–51
 * [Chapter 32](./32-Haazinu-Ismau-Deuteronomy.md)
-* * [II Samuel](./53-II-Samuel.md)
+* [II Samuel](./53-II-Samuel.md)
 
 ### V'Zot HaBracha | Wa-Hadhihi Al-Barakah | Deuteronomy
 (Deut 33:1–34:12): Joshua 1:1–18
 * [Chapter 33](./33-VZot-HaBracha-Wa-Hadhihi-Al-Barakah-Deuteronomy.md)
 * [Chapter 34](./34-VZot-HaBracha-Wa-Hadhihi-Al-Barakah-Deuteronomy.md)
-* * [Joshua](./54-Joshua.md)
+* [Joshua](./54-Joshua.md)
 
 
 License
