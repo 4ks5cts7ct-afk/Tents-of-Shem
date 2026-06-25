@@ -127,7 +127,7 @@
 * [Chapter 48](./48-Vayechi-Al-Baqa-Genesis.md)
 * [Chapter 49](./49-Vayechi-Al-Baqa-Genesis.md)
 * [Chapter 50](./50-Vayechi-Al-Baqa-Genesis.md)
-* [I Kings](./12-I-Kings.md)
+* [Haftorah Intercept: I Kings](./12-I-Kings.md)
 
 ### Shemot | Al-Asma | Exodus
 * [Chapter 1](./01-Shemot-Al-Asma-Exodus.md)
@@ -135,7 +135,8 @@
 * [Chapter 3](./03-Shemot-Al-Asma-Exodus.md)
 * [Chapter 4](./04-Shemot-Al-Asma-Exodus.md)
 * [Chapter 5](./05-Shemot-Al-Asma-Exodus.md)
-* [Isaiah](./13-Isaiah.md)
+* [Haftorah Intercept: Isaiah](./13-Isaiah.md)
+
 
 ### Vaera | Al-Tajalli | Exodus 
 * [Chapter 6](./06-Vaera-Al-Tajalli-Exodus.md)
