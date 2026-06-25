@@ -1,4 +1,4 @@
-## Haftorah 1 Samuel (Shmuel Alef) 11:14–12:22
+## Haftorah 1 Samuel (Shmuel Aleph) 11:14–12:22
 
 Just as in Parsha Naso, there is only one Surah used for this Haftorah: Surrah 2:246: “Have you not considered the leaders of the Children of Israel after Moses? When they said to a prophet of theirs, ‘Appoint a king for us, and we will fight in the cause of Allah.’ He said, ‘Is it possible that, if fighting was ordained for you, you would not fight?’ They said, ‘Why would we not fight in the cause of Allah, when we were driven out of our homes, along with our children?’ But when fighting was ordained for them, they turned away, except for a few of them. But Allah is aware of the wrongdoers.”
 
