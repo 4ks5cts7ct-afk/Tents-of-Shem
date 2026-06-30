@@ -23,9 +23,9 @@ The system intentionally runs the pristine, unexecuted setup code of Numbers sid
                            • Internal corruption disguised as empty ritualism.
 </pre>
 
-Parshat Matot: Haftarah 1 of Affliction (Jeremiah 1:1–2:3). This is the call of Jeremiah and the diagnostic vision of the boiling pot tipping over from the north. 
-Parshat Masei: Haftorah 2 of Affliction (Jeremiah 2:4–28, 3:4). This is the deep audit of the broken cisterns and hardware degradation. 
-Parshat Devarim: Haftarah 3 of Affliction (Isaiah 1:1–27), known universally as Shabbat Chazon (The Shabbat of Vision), reading right up to the threshold of the Tisha B'Av. 
+* Parshat Matot: Haftarah 1 of Affliction (Jeremiah 1:1–2:3). This is the call of Jeremiah and the diagnostic vision of the boiling pot tipping over from the north.<br> 
+* Parshat Masei: Haftorah 2 of Affliction (Jeremiah 2:4–28, 3:4). This is the deep audit of the broken cisterns and hardware degradation.<br> 
+* Parshat Devarim: Haftarah 3 of Affliction (Isaiah 1:1–27), known universally as Shabbat Chazon (The Shabbat of Vision), reading right up to the threshold of the Tisha B'Av.<br> 
 
 In the Torah text, Reuben and Gad try to opt out of the Jordan because they are hyper-focused on their immediate, localized financial wealth (their flocks). Centuries later, in this Haftorah, Jeremiah is documenting the exact unshielded systemic crash that Moses predicted. Jeremiah states that the leaders, priests, and citizens completely forgot the macro-system blueprint, traded the living waters of the sanctuary for broken, unshielded cisterns, and caught the surrounding imperial viruses. 
 
