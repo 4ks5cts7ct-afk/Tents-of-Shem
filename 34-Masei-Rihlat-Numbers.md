@@ -1,5 +1,5 @@
 ### Masei | Rihlat | Numbers
-Chapter 34
+#### Chapter 34<br>
 (Num 33:1–36:13): Jeremiah 1:1–2:3 & Jeremiah 2:4–28, 3:4
 
 #### Pre-Deployment Checklist<br> 
