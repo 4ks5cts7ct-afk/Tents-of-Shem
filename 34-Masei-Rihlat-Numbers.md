@@ -1,3 +1,7 @@
+### Masei | Rihlat | Numbers
+Chapter 34
+(Num 33:1–36:13): Jeremiah 1:1–2:3 & Jeremiah 2:4–28, 3:4
+
 #### Pre-Deployment Checklist<br> 
 The next two parshot (Matot/Masei) close the "Desert Subsystem" and format the "hard drive" for the Canaan Subsystem .  Because these verses contain information that has become distorted through time, it is best to begin with the basics. 
 
