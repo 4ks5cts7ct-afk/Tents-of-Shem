@@ -378,88 +378,22 @@
 * [Jeremiah](./43-Jeremiah.md)
 
 ### Devarim | Al-Kalimat | Deuteronomy
-(Deut 1:1–3:22): Isaiah 1:1–27
-* [Chapter 1](./01-Devarim-Al-Kalimat-Deuteronomy.md)
-* [Chapter 2](./02-Devarim-Al-Kalimat-Deuteronomy.md)
-* [Chapter 3](./03-Devarim-Al-Kalimat-Deuteronomy.md)
+(Deuteronomy): Isaiah
+* [Structural Changes](./01-Structural-Changes.md)
+* [The Shema](./02-The-Cognitive-Matrix-Shema.md)
+* [Birkat HaMazon](./03-Economic-Maintenance-Birkat-HaMazon.md)
+* [The Tochacha](./04-System-Failure-Metrics-Tochacha.md)
 * [Isaiah](./44-Isaiah.md)
 
-### Vaetchanan | Wa-Tadarra'tu | Deuteronomy
-(Deut 3:23–7:11): Isaiah 40:1–26
-* [Chapter 3b](./03b-Vaetchanan-Wa-Tadarratu-Deuteronomy.md)
-* [Chapter 4](./04-Vaetchanan-Wa-Tadarratu-Deuteronomy.md)
-* [Chapter 5](./05-Vaetchanan-Wa-Tadarratu-Deuteronomy.md)
-* [Chapter 6](./06-Vaetchanan-Wa-Tadarratu-Deuteronomy.md)
-* [Chapter 7](./07-Vaetchanan-Wa-Tadarratu-Deuteronomy.md)
-* [Isaiah](./45-Isaiah.md)
-
-### Ekev | Bi-Sababi | Deuteronomy
-(Deut 7:12–11:25): Isaiah 49:14–51:3
-* [Chapter 7b](./07b-Ekev-Bi-Sababi-Deuteronomy.md)
-* [Chapter 8](./08-Ekev-Bi-Sababi-Deuteronomy.md)
-* [Chapter 9](./09-Ekev-Bi-Sababi-Deuteronomy.md)
-* [Chapter 10](./10-Ekev-Bi-Sababi-Deuteronomy.md)
-* [Chapter 11](./11-Ekev-Bi-Sababi-Deuteronomy.md)
-* [Isaiah](./46-Isaiah.md)
-
-### Re'eh | Unzur | Deuteronomy
-(Deut 11:26–16:17): Isaiah 54:11–55:5
-* [Chapter 11b](./11b-Reeh-Unzur-Deuteronomy.md)
-* [Chapter 12](./12-Reeh-Unzur-Deuteronomy.md)
-* [Chapter 13](./13-Reeh-Unzur-Deuteronomy.md)
-* [Chapter 14](./14-Reeh-Unzur-Deuteronomy.md)
-* [Chapter 15](./15-Reeh-Unzur-Deuteronomy.md)
-* [Chapter 16](./16-Reeh-Unzur-Deuteronomy.md)
-* [Isaiah](./47-Isaiah.md)
-
-### Shoftim | Al-Quḍat | Deuteronomy
-(Deut 16:18–21:9): Isaiah 51:12–52:12
-* [Chapter 16b](./16b-Shoftim-Al-Qudat-Deuteronomy.md)
-* [Chapter 17](./17-Shoftim-Al-Qudat-Deuteronomy.md)
-* [Chapter 18](./18-Shoftim-Al-Qudat-Deuteronomy.md)
-* [Chapter 19](./19-Shoftim-Al-Qudat-Deuteronomy.md)
-* [Chapter 20](./20-Shoftim-Al-Qudat-Deuteronomy.md)
-* [Chapter 21](./21-Shoftim-Al-Qudat-Deuteronomy.md)
-* [Isaiah](./48-Isaiah.md)
-
-### Ki Teitzei | Itha Kharajta | Deuteronomy
-(Deut 21:10–25:19): Isaiah 54:1–10
-* [Chapter 21b](./21b-Ki-Teitzei-Itha-Kharajta-Deuteronomy.md)
-* [Chapter 22](./22-Ki-Teitzei-Itha-Kharajta-Deuteronomy.md)
-* [Chapter 23](./23-Ki-Teitzei-Itha-Kharajta-Deuteronomy.md)
-* [Chapter 24](./24-Ki-Teitzei-Itha-Kharajta-Deuteronomy.md)
-* [Chapter 25](./25-Ki-Teitzei-Itha-Kharajta-Deuteronomy.md)
-* [Isaiah](./49-Isaiah.md)
-
-### Ki Tavo | Itha Atayta | Deuteronomy
-(Deut 26:1–29:8): Isaiah 60:1–22
-* [Chapter 26](./26-Ki-Tavo-Itha-Atayta-Deuteronomy.md)
-* [Chapter 27](./27-Ki-Tavo-Itha-Atayta-Deuteronomy.md)
-* [Chapter 28](./28-Ki-Tavo-Itha-Atayta-Deuteronomy.md)
-* [Chapter 29](./29-Ki-Tavo-Itha-Atayta-Deuteronomy.md)
-* [Isaiah](./50-Isaiah.md)
-
-### Nitzavim | Al-Waqifun | Deuteronomy
-(Deut 29:9–30:20): Isaiah 61:10–63:9
-* [Chapter 29b](./29b-Nitzavim-Al-Waqifun-Deuteronomy.md)
-* [Chapter 30](./30-Nitzavim-Al-Waqifun-Deuteronomy.md)
-* [Isaiah](./51-Isaiah.md)
-
-### Vayelech | Wa-Madha | Deuteronomy
-(Deut 31:1–31:30): Hosea 14:2–10
-* [Chapter 31](./31-Vayelech-Wa-Madha-Deuteronomy.md)
-* [Hosea](./52-Hosea.md)
-
 ### Ha'azinu | Isma’u | Deuteronomy
-(Deut 32:1–32:52): II Samuel 22:1–51
-* [Chapter 32](./32-Haazinu-Ismau-Deuteronomy.md)
-* [II Samuel](./53-II-Samuel.md)
+(Deut 29:9–32:52): Hosea 14:2–10 & II Samuel 22:1–51
+* [Ha'Azinu](./05-Haazinu.md)
+* [II Samuel, Hosea](./45-Hosea.md)
 
-### V'Zot HaBracha | Wa-Hadhihi Al-Barakah | Deuteronomy
-(Deut 33:1–34:12): Joshua 1:1–18
-* [Chapter 33](./33-VZot-HaBracha-Wa-Hadhihi-Al-Barakah-Deuteronomy.md)
-* [Chapter 34](./34-VZot-HaBracha-Wa-Hadhihi-Al-Barakah-Deuteronomy.md)
-* [Joshua](./54-Joshua.md)
+### V'Zot-HaBracha | Wa-Hadhihi-Al-Barakah | Deuteronomy
+(Deut 33:1–34:12): Joshua 
+* [The End of Deuteronomy](./06-The-End-of-Deuteronomy.md)
+
 
 
 License
