@@ -12,22 +12,22 @@ Surah Al-Qalam 68:10-14- "And do not obey every worthless swearer... a slanderer
 
 Surah Al-A'raf 7:175-176: "And recite to them, [O Muhammad], the story of him to whom We gave Our signs, but he detached himself from them; so Satan pursued him, and he became of the deviants. And if We had willed, We could have elevated him thereby, but he adhered [instead] to the earth and followed his own desire. So his example is like that of the dog: if you chase him, he pants, or if you leave him, he pants. That is the example of the people who denied Our signs. So relate the stories that perhaps they will give thought."<br>
 
-The Prophet of Canaan: Islamic traditions state that Bal'am was not a magician, but a true holy man living among the Canaanites (or the people of Al-Jabbarin/The Giants) <br>
-Knowledge of the Ism al-A'zam: He was granted the knowledge of the Ism Allah al-A'zam—the secret, supreme "Greatest Name of God." Islamic theology teaches that if anyone makes a supplication using this specific name, God is bound by His own decree to grant it immediately. This was the source of his absolute power to bless or curse.<br>
+* The Prophet of Canaan: Islamic traditions state that Bal'am was not a magician, but a true holy man living among the Canaanites (or the people of Al-Jabbarin/The Giants) <br>
+* Knowledge of the Ism al-A'zam: He was granted the knowledge of the Ism Allah al-A'zam—the secret, supreme "Greatest Name of God." Islamic theology teaches that if anyone makes a supplication using this specific name, God is bound by His own decree to grant it immediately. This was the source of his absolute power to bless or curse.<br>
 
-2. The Psychological Trap: The Wife and the Bribe<br>
+The Psychological Trap: The Wife and the Bribe<br>
 The Talmud highlights Balaam's greed, but Islamic texts provide a specific narrative about how he was broken, focusing heavily on family pressure and material luxury:<br>
 According to Al-Tabari, when King Balak’s messengers first arrived with gold, Bal'am used his spiritual insight, prayed to God, and was explicitly forbidden from cursing Moses. He rejected the gifts.<br>
 Balak then approached Bal'am's wife. He showered her with immense wealth, jewelry, and promises of royal status.<br>
 His wife became the catalyst, relentlessly berating and manipulating Bal'am until his spiritual defenses crumbled. He finally agreed to ascend the mountain of Husban (Heshbon) to look down upon the camp of Israel.<br>
 
-3. The Graphic Transformation: The Dropping Tongue<br>
+The Graphic Transformation: The Dropping Tongue<br>
 While the Torah focuses on the words of blessing that came out of Balaam's mouth, the Islamic Tafsir literature describes a physical, somatic punishment that mirrors his spiritual degeneration:<br>
 When Bal'am mounted his donkey to head to the mountain, the animal collapsed and refused to move. When beaten, God allowed the donkey to speak, saying, "Woe to you, Bal'am! Where are you going? Do you not see the angels blocking my path?"<br>
 Driven by his compromise, Bal'am ignored the warning and reached the summit. When he opened his mouth to curse Moses and the Israelites, God overrode his biology. The curse flipped: every time he tried to name Israel, his tongue named his own people, the Moabites.<br>
 At that moment, the texts state that his tongue physically swelled and dropped out of his mouth, hanging down onto his chest like that of a panting dog. This is the exact origin of the graphic imagery used in Surah Al-A'raf 7:176.<br>
 
-4. The Biological Warfare Advice<br>
+The Biological Warfare Advice<br>
 Realizing his spiritual power was completely gone, Bal'am realized he could only defeat Israel by causing them to lose God's protection. His advice to Balak is recorded with specific detail in Islamic history:<br>
 He told Balak: "Adorn your women, give them merchandise to sell, and send them into the encampment of Israel. Command them that no woman should refuse any man who desires her. If even a single man commits adultery, you will defeat them."<br>
 This resulted in the event at Baal-Peor, where an Israelite leader publicly took a Midianite princess into his tent, triggering a swift divine plague that killed tens of thousands of Israelites before Phinehas (Numbers 25) stopped it.<br>
