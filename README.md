@@ -386,7 +386,7 @@
 * [Isaiah](./44-Isaiah.md)
 
 ### Ha'azinu | Isma’u | Deuteronomy
-(Deut 29:9–32:52): Hosea 14:2–10 & II Samuel 22:1–51
+(Deut 31:16–22; 31:30, 32:1-52): Hosea 14:2–10 & II Samuel 22:1–51
 * [Ha'Azinu](./05-Haazinu.md)
 * [II Samuel, Hosea](./45-Hosea.md)
 
