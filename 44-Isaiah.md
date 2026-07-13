@@ -96,4 +96,3 @@ This final haftorot block completes the ultimate system recovery. The Tochacha l
 * The Hadith Text: The people of the Scripture (Jews) used to recite the Torah in Hebrew and they used to explain it in Arabic to the Muslims. On that Allah's Messenger (ﷺ) said, "Do not believe the people of the Scripture or disbelieve them, but say: Say, [O believers], 'We believe in Allah and what has been revealed to us and what was revealed to Abraham and Ishmael and Isaac and Jacob and the Descendants...'”
 * The Structural Mechanic: This is the Neutral-Acknowledge Protocol. It provides the exact academic and historical framework needed. It acknowledges a direct historical environment where the Hebrew text and its Arabic explanations interacted daily. Instead of validating or invalidating the theological interpretations, it commands a strict, objective preservation of the shared foundational dataset (the revelations of Abraham, Isaac, and Jacob).
 
-.
