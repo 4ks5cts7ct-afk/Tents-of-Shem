@@ -1,4 +1,4 @@
-Deuteronomy 28 The Tochacha 
+### Deuteronomy 28 The Tochacha 
 
 
 #### Blessings for Obedience<br>
